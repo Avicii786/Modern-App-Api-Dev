@@ -9,90 +9,33 @@ Overview of the concepts by the Students:
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
 
-# Table of Contents
-1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
-2. [Prerequisites](#prerequisites-html-css-and-javascript)
-3. [Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)
-4. [Class 1: Development Setup](#class-1-development-setup)
-5. [Class 2: Starting React](#class-2-starting-react)
-6. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
-7. [Class 5 and 6: Hooks](#class-5-and-6-hooks)
-   * [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1-build-an-expense-tracker-app-using-react-hooks-and-context-api)
-8. [Class 7: Asynchronous JavaScript](#class-7-asynchronous-javascript)
-9. [Class 8: Fetch Data](#class-8-fetch-data)
-10. [Class 9 and 10: Material UI](#class-9-and-10--material-ui)
-   * [Bootcamp 2020 Project 2: COVID-19 Tracker App](#bootcamp-2020-project-2--covid-19-tracker-app)
-11. [Class 11 React Router v6](#class-11-react-router-v6)
-    * [Bootcamp 2020 Project 3: Shoe Store](#bootcamp-2020-project-3-shoe-store)
-12. [Class 12 Web Animations API](#class-12-web-animations-api)
-13. [Class 13 Web Animations API with React](#class-13-web-animations-api-with-react)
-    * [Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks](#bootcamp-2020-project-4a--red-queen-s-race-with-web-animation-api-and-react-hooks)
-    * [Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks](#bootcamp-2020-project-4b-develop-tiny-short-animation-with-react-hooks)
-    * [Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations](#bootcamp-2020-bonus-extra-project-5-build-an-animated-react-website-which-follows-the-latest-trends-like-animated-illustrations)
-14. [Part II: Programming with TypeScript](#part-ii-programming-with-typescript)
-    * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
-15. [Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)
-16. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
-17. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
-    * [Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz Part IV: Testing React in TypeScriptApp with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications](#bootcamp-2020-project-7a--rebuild-the-expense-tracker-app-and-quiz-app-with-react-typescript-it-should-be-a-progressive-web-app--pwa--with-offline-capability-and-push-notifications)
-18. [Part IV: Testing React in TypeScript](#part-iv-testing-react-in-typeScript)
-    * [Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development](#bootcamp-2020-project-7b--build-a-react-timer-app-using-typescript-with-test-driven-development)
-19. [Part V: Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)
-    * [Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA](#bootcamp-2020-project-8--build-a-build-a-space-x-client-application-with-react-typescript-appllo-client-3-and-spacex-api-using-test-driven-development-tdd-and-deployed-as-a-pwa)
-20. [Part VI: Managing State with Redux](#part-vi-managing-state-with-redux)
-    * [Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9a-create-a-shopping-basket-using-react-and-redux-toolkit-with-typescript)
-    * [Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9b-building-diaries-app-using-react-and-redux-toolkit-with-typescript)
-21. [Part VII: API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)
-22. [Part VIII: Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)
-    * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
-22. [Part IX: Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)
-    * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
-23. [Part X: JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)
-    * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
-    * [Bootcamp 2020 Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB](#bootcamp-2020-project-12b-building-serverless-crud-apps-with-netlify-functions-and-faunadb)
-    * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb)
-    * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
-    * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
-    * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
-24. [Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)
-25. [Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)
-    * [Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB](#bootcamp-2020-project-13a-building-a-serverless-jamstack-todo-app-with-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-and-dynamodb)
-    * [Bootcamp 2020 Project 13B: Create A Bookmarking Application With AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB](#bootcamp-2020-project-13b-create-a-bookmarking-application-with-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-and-dynamodb)
-    * [Bootcamp 2020 Project 13C: Virtual Lolly using AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, DynamoDB, Formik, and Storybook 6](#bootcamp-2020-project-13c-virtual-lolly-using-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-dynamodb-formik-and-storybook-6)
-    * [Bootcamp 2020 Project 14: Building Serverless Apps with Event-Driven Architecture using AWS Eventbridge](#bootcamp-2020-project-14-building-serverless-apps-with-event-driven-architecture-using-aws-eventbridge)
-    * [Bootcamp 2020 Project 15A: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL](#bootcamp-2020-project-15a-build-serverless-saas-apis-for-diningbyfriends-social-network-project-using-graph-database-and-graphql)
-    * [Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI](#bootcamp-2020-project-15b-build-serverless-saas-apis-for-diningbyfriends-social-network-project-using-relational-database-and-openapi)
-26. [Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
-    * [Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify](#bootcamp-2020-project-16-build-serverless-slack-app-with-expo-and-aws-amplify)
-27. [Appendices](#appendices)
-    * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
-    * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
-    * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
-    * [Appendix D: Cloud Security](#appendix-d-cloud-security)
-    * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
+
+## Quarter I: HTML, CSS, JavaScript, and Git
+
+Introduction to Front End Development for the Web
+
+Objective: The objective of this module is to get a hands on understanding of HTML, CSS, and JS. By the end of the module we will have built 20 projects and build github reprositories for these project.
+
+### Learning Procedure:
+
+Watch Learning videos before class (links below)
+
+Guided project based practice in class (see prjects below)
+
+Independent Practice (at home)
 
 
-## Introduction to English and Urdu Sections
+### Learning Material
 
-### English Section:
+Reading Materials: 
 
-[English Class Facebook Group](https://www.facebook.com/groups/4irug)
+HTML & CSS Textbook - HTML and CSS by Wiley
 
-[YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
+JavaScript Textbook - A Smarter Way to Learn JavaScript by Mark Meyers
 
-### Urdu Section:
+[JavaScript Practice by Hira Khan](https://github.com/hirashoaib/learn-javascript)
 
-[Urdu Class Facebook Group](https://www.facebook.com/groups/freelance.remote.work/)
-
-[YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
-
-### Teaching Team:
-
-[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
-
-## Prerequisites: HTML, CSS, and JavaScript
-
-These topics have been released for everyone in Urdu:
+Learning Videos:
 
 [Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
 
@@ -100,9 +43,214 @@ These topics have been released for everyone in Urdu:
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
+[Git Version Control and Github Playlist by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKueo-cldy_HjRnPUL4G3pWHS7FREAizF)
 
-[Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
+### Projects
+
+[Project Videos by Adil Altaf](https://www.youtube.com/playlist?list=PLkbGIHuvWbSkLo7s7JLemM199go4Ztt_D)
+
+1. HTML Form - Client side form validation with HTML
+
+Check required, length, email and password match
+
+Create form UI
+
+Show error messages under specific inputs
+
+checkRequired() to accept array of inputs
+
+checkLength() to check min and max length
+
+checkEmail() to validate email with regex
+
+checkPasswordsMatch() to match confirm password
+
+
+2. Seat Selection at Movie Theater
+
+Select from movie choices and seats in a theater in order to purchase tickets
+
+Display UI with movie select, screen, seats, legend & seat info
+
+User can select a movie/price
+
+User can select/deselect seats
+
+User can not select occupied seats
+
+Number of seats and price will update
+
+Save seats, movie and price to local storage so that UI is still populated on refresh
+
+
+
+3. Video Player
+
+Custom video player using the HTML5 video element and it's JavaScript API with a custom design
+
+Display custom video player styled with CSS
+
+Play/pause
+
+Stop
+
+Video progress bar
+
+Set progress bar time
+
+Display time in mins and seconds
+
+
+Calculating Exchange Rates
+Select countries to get the exchange rate for a specific amount
+Display UI with 2 select lists for countries and 2 inputs for amounts
+Fetch exchange rates from API (https://api.exchangerate-api.com)
+Display the values for both countries
+Update values on amount change
+Swap country rates
+
+
+DOM Arrays Methods
+Project to teach high order array methods and DOM manipulation
+Fetch random users from the randomuser.me API
+Use forEach() to loop and output user/wealth
+Use map() to double wealth
+Use filter() to filter only millionaires
+Use sort() to sort by wealth
+Use reduce() to add all wealth
+
+
+Landing Page with Sliding Menu and Modal Window
+Simple landing page with sliding menu and modal
+Create and style landing page
+Style side nav and modal
+Add functionality to make menu open/close on button click
+Add functionality to make modal open/close on button click
+Classic Hangman Game
+User can select letters from keyboard to guess the word in a certain number of tries
+Display hangman pole and figure using SVG
+Generate a random word
+Display word in UI with correct letters
+Display wrong letters
+Show notification when select a letter twice
+Show popup on win or lose
+Play again button to reset game
+
+
+Random Food Selector
+Search and generate random meals from the themealdb.com API
+Display UI with form to search and button to generate
+Connect to API and get meals
+Display meals in DOM with image and hover effect
+Click on meal and see the details
+Click on generate button and fetch & display a random meal
+
+
+Expense Tracking
+Keep track of income and expenses. Add and remove items and save to local storage
+Create UI for project
+Display transaction items in DOM
+Show balance, expense and income totals
+Add new transaction and reflect in total
+Delete items from DOM
+Persist to local storage
+
+
+Music Player
+Create UI to play music stored in the "music folder" using the HTML5 audio API
+Create UI for music player including spinning image and song detail popup
+Add play and pause functionality
+Switch songs
+Progress bar
+Infinite Scrolling App
+Display posts from jsonplaceholder and add infinite scroll to fetch posts and also add filter box
+Create UI & custom CSS loader animation
+Fetch initial posts from API and display
+Scroll down, show loader and fetch next set of posts
+Add filtering for fetched posts
+
+
+Fast Typing Game
+Game to beat the clock by typing random words
+Create game UI including a difficulty setting
+Generate random word and place in DOM
+Score increase after word is typed
+Implement timer
+Add certain amount of time after word is typed based on difficulty
+Store difficulty setting in local storage
+
+
+Memory Cards
+Flash card app for learning. Display, add and remove memory cards with questions and answers
+Create flip cards using CSS
+Create "Add new card" overlay with form
+Display question cards and flip for answer
+View prev and next cards
+Add new cards to local storage
+Clear all cards from local storage
+
+
+A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
+A text to speech app. Pre-made buttons and custom text speech. This project uses the Web Speech API.
+Create responsive UI (CSS Grid) with picture buttons
+Speaks the text when button clicked
+Drop down custom text to speech
+Speaks the text typed in
+Change voices and accents
+
+
+Search for Lyrics
+Find songs, artists and lyrics using the lyrics.ovh API
+Display UI with song/artist input
+Fetch songs/artists and put in DOM
+Add pagination
+Add get lyrics functionality and display in DOM
+
+
+Breathing Exercise for Relaxing
+A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
+Create circle and gradient circle with CSS
+Create and animate pointer (Small circle)
+Create grow and shrink animations
+Add JavaScript to create the breath animation effect
+
+
+Sortable List
+Display a scrambled list that can be sorted with drag and drop
+Create an ordered list (10 largest countries)
+Scramble list items randomly
+Allow user to drag and drop an item to a different position
+Button to check if items are in correct order
+Show green for correct order and red for wrong order
+
+
+
+
+
+
+
+Breakout
+Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API
+Draw elements on canvas
+Use canvas paths to draw shapes
+Add animation with requestAnimationFrame(cb)
+Move paddle on arrow key press
+Add collision detection
+Keep score
+Add rules button with slider
+
+
+New Year Countdown
+Landing page that counts down from the current date to the next new year
+Create landing page with HTML/CSS
+Calculate the days, hours, mins and seconds to the new year
+Insert values into the DOM
+Show a spinner right before loading the countdown
+Show the coming year in the background
+
+
+
 
 ## Part I: Front-End Fundamentals with React
 
