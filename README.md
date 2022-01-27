@@ -50,7 +50,7 @@ Learning Videos:
 
 [Project Videos by Adil Altaf](https://www.youtube.com/playlist?list=PLkbGIHuvWbSkLo7s7JLemM199go4Ztt_D)
 
-1. HTML Form - Client side form validation with HTML
+#### Project 1. HTML Form - Client side form validation with HTML
 
 Check required, length, email and password match
 
@@ -67,7 +67,7 @@ checkEmail() to validate email with regex
 checkPasswordsMatch() to match confirm password
 
 
-2. Seat Selection at Movie Theater
+#### Project 2. Seat Selection at Movie Theater
 
 Select from movie choices and seats in a theater in order to purchase tickets
 
