@@ -1,4 +1,4 @@
-# Mobile Web and Serverless Cloud Computing Syllabus
+# Mobile Web and Serverless Cloud Computing Program Syllabus
 
 This program of [Saylani Welfare Trust](https://www.saylaniwelfare.com/) will teach you to Build Modern Full-Stack Serverless Mobile Web Cloud SaaS Apps and APIs.
 
