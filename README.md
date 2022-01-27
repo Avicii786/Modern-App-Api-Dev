@@ -357,9 +357,9 @@ Students will create a comprehensive final project of their choosing demonstrati
 
 
 
-## Module II: Front-End Fundamentals with React
+## Module II: Advanced JavaScript, React, Redux, TypeScript, PWA, and Storybook 
 
-Objective: The objective of this module is to get a hands on understanding of React. By the end of the module we will have built 20 projects and build github reprositories for these projects and publish them on the web.
+Objective: The objective of this module is to get a hands on understanding of React and TypeScript. By the end of the module we will have built 12 projects and build github reprositories for these projects and publish them on the web.
 
 ### Learning Procedure:
 
@@ -369,11 +369,11 @@ Guided project based practice in class (see prjects below)
 
 Independent Practice (at home)
 
+## Part I: React
 
+### Video 1: Development Setup
 
-## Class 1: Development Setup
-
-Learning Material for Class 1:
+Learning Material for Video 1:
 
 [Assignment Notes](https://github.com/panacloud/Bootcamp-Setup)
 
@@ -381,17 +381,17 @@ Learning Material for Class 1:
 
 [Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
 
-[Class 1 in English on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170335457846407/)
+[Video 1 in English on Facebook : Development Setup](https://www.facebook.com/piaic.main/videos/170335457846407/)
 
-[Class 1 in English on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=pjc441QKJFE)
+[Video 1 in English on YouTube : Development Setup](https://www.youtube.com/watch?v=pjc441QKJFE)
 
-[Class 1 in Urdu on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170952927784660/)
+[Video 1 in Urdu on Facebook : Development Setup](https://www.facebook.com/piaic.main/videos/170952927784660/)
 
-[Class 1 in Urdu on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=OiP7N_ztnik)
+[Video 1 in Urdu on YouTube : Development Setup](https://www.youtube.com/watch?v=OiP7N_ztnik)
 
 
 
-## Class 2: Starting React
+### Video 2: Starting React
 
 Learning material
 
@@ -399,41 +399,40 @@ Learning material
 
 [Notes](https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit?usp=sharing)
 
-English Videos:
 
-[Class 2 in English on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
+[Video 2 in English on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
 
-[Class 2 in English on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=G25BM3nPk3s)
+[Video 2 in English on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=G25BM3nPk3s)
 
-[Class 2 in Urdu on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171837241029562/)
+[Video 2 in Urdu on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171837241029562/)
 
-[Class 2 in Urdu on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=mEFq3YGiauM)
+[Video 2 in Urdu on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
-## Class 3 and 4: Learn React
+### Video 3 and 4: Learn React
 
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 Cover the Tutorial Before Fetching Data
 
-[Class 3 Facebook English Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173417630871523)
+[Video 3 Facebook English Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173417630871523)
 
-[Class 3 YouTube English Video : Learning React Part 2](https://www.youtube.com/watch?v=AHC-Gas_sok)
+[Video 3 YouTube English Video : Learning React Part 2](https://www.youtube.com/watch?v=AHC-Gas_sok)
 
-[Class 3 Facebook Urdu Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173553557524597/)
+[Video 3 Facebook Urdu Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173553557524597/)
 
-[Class 3 YouTube Urdu Video : Learning React Part 2](https://www.youtube.com/watch?v=8TQ1i93pRsk)
+[Video 3 YouTube Urdu Video : Learning React Part 2](https://www.youtube.com/watch?v=8TQ1i93pRsk)
 
-[Class 4 Facebook English Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174431544103465/)
+[Video 4 Facebook English Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174431544103465/)
 
-[Class 4 YouTube English Video : Learning React Part 3](https://www.youtube.com/watch?v=ye0yj5WdXg4)
+[Video 4 YouTube English Video : Learning React Part 3](https://www.youtube.com/watch?v=ye0yj5WdXg4)
 
-[Class 4 Facebook Urdu Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174837927396160/)
+[Video 4 Facebook Urdu Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174837927396160/)
 
-[Class 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
+[Video 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
 
 
-## Class 5 and 6: Hooks
-After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
+## Video 5 and 6: Hooks
+After we have learned the useState Hook in video 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
 
 First we will learn the hooks:
 
@@ -445,28 +444,26 @@ First we will learn the hooks:
 
 [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
 
-[Class 5 YouTube English Video : Learning React Part 4](https://www.youtube.com/watch?v=h27ABSn-27g)
+[Video 5 YouTube English Video : Learning React Part 4](https://www.youtube.com/watch?v=h27ABSn-27g)
 
-[Class 5 Facebook English Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176007070612579/)
+[Video 5 Facebook English Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176007070612579/)
 
-[Class 5 YouTube Urdu Video : Learning React Part 4](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
+[Video 5 YouTube Urdu Video : Learning React Part 4](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
 
-[Class 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
+[Video 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
 
 
-### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
+#### Project 1: Build an Expense Tracker App using React Hooks and Context API
 
 Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
-[Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
+[Video 6 YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)
 
-[Class 6 YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)
+[Video 6 Facebook English Video : Building a React Project](https://www.facebook.com/piaic.main/videos/177715090441777/)
 
-[Class 6 Facebook English Video : Building a React Project](https://www.facebook.com/piaic.main/videos/177715090441777/)
+[Video 6 Facebook Urdu Video : Building a React Project](https://www.facebook.com/imran82ali/videos/283949636075779/)
 
-[Class 6 Facebook Urdu Video : Building a React Project](https://www.facebook.com/imran82ali/videos/283949636075779/)
-
-[Class 6 YouTube Urdu Video : Building a React Project](https://www.youtube.com/watch?v=dkMba8oK55w)
+[Video 6 YouTube Urdu Video : Building a React Project](https://www.youtube.com/watch?v=dkMba8oK55w)
 
 Expense Tracker App By Adil Altaf
 
@@ -477,7 +474,7 @@ Expense Tracker App By Adil Altaf
 [Step by Step Guide](https://docs.google.com/document/d/1f6KBYJQAhwUzS0UtMzrshBWwOeYHH32kMAfuLIfuDgU/edit?usp=sharing)
 
 
-## Class 7: Asynchronous JavaScript
+### Video 7: Asynchronous JavaScript
 
 [JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
 
@@ -485,15 +482,15 @@ Expense Tracker App By Adil Altaf
 
 [Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
 
-[Class 7 English Facebook Video : Learning Asynchronous JavaScript](https://web.facebook.com/imran82ali/videos/286047259199350/)
+[Video 7 English Facebook Video : Learning Asynchronous JavaScript](https://web.facebook.com/imran82ali/videos/286047259199350/)
 
-[Class 7 English YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=xSCo1sPk6mg)
+[Video 7 English YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=xSCo1sPk6mg)
 
-[Class 7 Urdu YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=8a1oq_IjCHE)
+[Video 7 Urdu YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=8a1oq_IjCHE)
 
-[Class 7 Urdu Facebook Video : Learning Asynchronous JavaScript](https://www.facebook.com/imran82ali/videos/286730542464355/)
+[Video 7 Urdu Facebook Video : Learning Asynchronous JavaScript](https://www.facebook.com/imran82ali/videos/286730542464355/)
 
-## Class 8: Fetch Data
+### Video 8: Fetch Data
 
 Learn JavaScript Fetch
 
@@ -505,15 +502,15 @@ Different Options to get data in React
 
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
-[Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
+[Video 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
 
-[Class 8 English Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
+[Video 8 English Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
 
-[Class 8 English YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=MoTfMsuexhk)
+[Video 8 English YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=MoTfMsuexhk)
 
-[Class 8 Urdu Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
+[Video 8 Urdu Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
 
-[Class 8 Urdu YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=i7iuPKa2A-E)
+[Video 8 Urdu YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
 
@@ -531,7 +528,7 @@ References:
 
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
-## Class 9 and 10: Material UI
+### Video 9 and 10: Material UI
 
 Learn Material UI
 
@@ -551,19 +548,16 @@ Learn Chart.js
 
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
-[Class 9 English Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
+[Video 9 English Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
 
-[Class 9 English YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
+[Video 9 English YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
 
-[Class 9 Urdu Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
+[Video 9 Urdu Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
 
-[Class 9 Urdu YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=GqRXcnxEZt0)
+[Video 9 Urdu YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=GqRXcnxEZt0)
 
 
-### Bootcamp 2020 Project 2: COVID-19 Tracker App
-
-[Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
-
+### Project 2: COVID-19 Tracker App
 
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
@@ -587,15 +581,15 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 Adil Altaf builds the COVID-19 Tracker App
 
-[Class 10 English Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
+[Video 10 English Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 
-[Class 10 English YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
+[Video 10 English YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
 
-[Class 10 Urdu Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
+[Video 10 Urdu Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
 
-[Class 10 Urdu YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=hbVAt-44G9Y)
+[Video 10 Urdu YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=hbVAt-44G9Y)
 
-## Class 11 React Router v6
+### Video 11 React Router v6
 
 [Setting Started with React Router V6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
 
@@ -603,21 +597,21 @@ Adil Altaf builds the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
-[Class 11 English Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
+[Video 11 English Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
 
-[Class 11 English YouTube Video : Learning Routing With React Router](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
+[Video 11 English YouTube Video : Learning Routing With React Router](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
 
-[Class 11 Urdu Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
+[Video 11 Urdu Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
 
-[Class 11 Urdu YouTueb Video : Learning Routing With React Router](https://www.youtube.com/watch?v=IcbIvXY7JCw)
+[VideoClass 11 Urdu YouTueb Video : Learning Routing With React Router](https://www.youtube.com/watch?v=IcbIvXY7JCw)
 
-### Bootcamp 2020 Project 3: Shoe Store 
+### Project 3: Shoe Store 
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
 [Submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform)
 
-## Class 12 Web Animations API
+### Vido 12 Web Animations API
 
 [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?fbclid=IwAR1GBet8ybffQ5Tlcfterc_sq8EledzsTHvWm-eLlSwvrFmwf63ggvM4Z_o)
 
@@ -639,16 +633,16 @@ Now build a Shoe Store after watching this [video](https://www.youtube.com/watch
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-[Class 12 English Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
+[Video 12 English Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
 
-[Class 12 English YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=DhUveECtjG4)
+[Video 12 English YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=DhUveECtjG4)
 
-[Class 12 Urdu Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
+[Video 12 Urdu Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
 
-[Class 12 Urdu YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=PbXYsgtJAMc)
+[Video 12 Urdu YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=PbXYsgtJAMc)
 
 
-## Class 13 Web Animations API with React
+### Video 13 Web Animations API with React
 
 We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
 
@@ -656,17 +650,17 @@ We will be using the following React hooks useEffect, useLayoutEffect and [useRe
 
 [Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
-[Class 13 English Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
+[Video 13 English Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
 
-[Class 13 English YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
+[Video 13 English YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
 
-[Class 13 Urdu Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
+[Video 13 Urdu Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
 
-[Class 13 Urdu YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=BQRBFoYhWgE)
+[Video 13 Urdu YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=BQRBFoYhWgE)
 
 
 
-### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
+### Project 4A: Red Queen's Race with Web Animation API and React Hooks
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLScAj_NogliczLma_YvlE9r1FbBhamiq6dhJy77SIpbxZPYmvw/viewform)
 
@@ -683,7 +677,7 @@ Note the following:
 [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
 
-### Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks
+### Project 4B: Develop Tiny Short Animation with React Hooks
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSex4JsbAK60hhrZkHZs_8HWj54KF2idxZxEaQorNqqhUOxjWQ/viewform)
 
@@ -693,7 +687,7 @@ Read this article: [The Tiny Short Animation Trend in Web Design](https://specky
 Clone the front page animation of one of the companies mentioned in the article, using the latest web animation API.
 
 
-### Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
+### Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdhHS93c4GCfxTAJYkuIG8nSp9kRp1pYcLW9r-20TNO2P6wIA/viewform)
 
@@ -767,31 +761,31 @@ Chapters 1, 2, 3, 4, and 9
 
 Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
-[Class 14 English Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
+[Video 14 English Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
 
-[Class 14 English YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=dVKnwn44U7w)
+[Video 14 English YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=dVKnwn44U7w)
 
-[Class 14 Urdu YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=xMRyGAqnPEU)
+[Video 14 Urdu YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=xMRyGAqnPEU)
 
-[Class 14 Urdu Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
+[Video 14 Urdu Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
 
 [Class 15 English Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
 
-[Class 15 English YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
+[Video 15 English YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
 
-[Class 15 Urdu Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
+[Video 15 Urdu Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
 
-[Class 15 Urdu YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=H3tQTv2EPcM)
+[Video 15 Urdu YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=H3tQTv2EPcM)
 
-[Class 16 English Facebook Video : Building A React Quiz App And TypeScript Part 2](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
+[Video 16 English Facebook Video : Building A React Quiz App And TypeScript Part 2](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
 
-[Class 16 English YouTube Video : Building A React Quiz App And TypeScript Part 2](https://www.youtube.com/watch?v=2gYKVaeApzU)
+[Video 16 English YouTube Video : Building A React Quiz App And TypeScript Part 2](https://www.youtube.com/watch?v=2gYKVaeApzU)
 
-[Class 16 Urdu YouTube Video](https://www.youtube.com/watch?v=R94xDXkvBgM)
+[Video 16 Urdu YouTube Video](https://www.youtube.com/watch?v=R94xDXkvBgM)
 
-[Class 16 English YouTube Video](https://www.facebook.com/zeeshanhanif/videos/10223976398902688/)
+[Video 16 English YouTube Video](https://www.facebook.com/zeeshanhanif/videos/10223976398902688/)
 
-### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
+### Project 6: Quiz App with React and TypeScript
 
 [You can submit your project here](https://docs.google.com/forms/d/e/1FAIpQLSepN9QvMMoutFd9FbrK9xg0elIHRmjDDfMriRVQe2bDeHMCUw/viewform)
 
@@ -801,7 +795,7 @@ Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](h
 
 ## Part III: Progressive Web Apps (PWA)
 
-## Class 17 Progressive Web Apps (PWA) and Offline Availability
+### Video 17 Progressive Web Apps (PWA) and Offline Availability
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
@@ -833,27 +827,27 @@ Deploy PWA on All App Stores
 
 [How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
 
-[Class 17 English Facebook Video : Learning Progressive Web App](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
+[Video 17 English Facebook Video : Learning Progressive Web App](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
 
-[Class 17 English YouTube Video : Learning Progressive Web App](https://www.youtube.com/watch?v=S9Jkb61_gac)
+[Video 17 English YouTube Video : Learning Progressive Web App](https://www.youtube.com/watch?v=S9Jkb61_gac)
 
-[Class 17 Urdu Facebook Video ](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
+[Video 17 Urdu Facebook Video ](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
 
-[Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
+[Video 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
-## Class 18 Progressive Web App (PWA) and Service Push Notification
+## Video 18 Progressive Web App (PWA) and Service Push Notification
 
 [Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
 
-[Class 18 English Facebook Video : Progressive Web App And Push Notification](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+[Video 18 English Facebook Video : Progressive Web App And Push Notification](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
 
-[Class 18 English YouTube Video : Progressive Web App And Push Notification](https://www.youtube.com/watch?v=4MwPXLcMRns)
+[Video 18 English YouTube Video : Progressive Web App And Push Notification](https://www.youtube.com/watch?v=4MwPXLcMRns)
 
-[Class 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
+[Video 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
 
-[Class 18 Urdu YouTube Video](https://www.youtube.com/watch?v=oFxmMVi6U0U)
+[Video 18 Urdu YouTube Video](https://www.youtube.com/watch?v=oFxmMVi6U0U)
 
-### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
+### Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
 
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
@@ -879,16 +873,16 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
-[Class 19 English Facebook Video : Learning Test Driven Development](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
+[Video 19 English Facebook Video : Learning Test Driven Development](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
 
-[Class 19 English YouTube Video : Learning Test Driven Development](https://www.youtube.com/watch?v=gYYcGCpPA7g)
+[Video 19 English YouTube Video : Learning Test Driven Development](https://www.youtube.com/watch?v=gYYcGCpPA7g)
 
-[Class 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
+[Video 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
 
-[Class 19 Urdu YouTube Video](https://www.youtube.com/watch?v=R6S5Vo9aizg)
+[Video 19 Urdu YouTube Video](https://www.youtube.com/watch?v=R6S5Vo9aizg)
 
 
-### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development
+### Project 7B: Build a React Timer App using TypeScript with Test Driven Development
 
 [React Test-driven Development: From User Stories to Production](https://www.toptal.com/react/tdd-react-user-stories-to-development)
 
@@ -900,13 +894,13 @@ Note 1: While Building the CI/CD pipeline make sure the app passes all the autom
 
 Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
-[Class 20 English Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
+[Video 20 English Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
 
-[Class 20 English YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=xsf_NhEkQII)
+[Video 20 English YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=xsf_NhEkQII)
 
-[Class 20 Urdu Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
+[Video 20 Urdu Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
 
-[Class 20 Urdu YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=VxDXySbiqhY)
+[Video 20 Urdu YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=VxDXySbiqhY)
 
 
 
@@ -967,24 +961,24 @@ TypeScript Code Generator:
 
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
-[Class 21 English Facebook Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
+[Video 21 English Facebook Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
 
-[Class 21 English YouTube Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.youtube.com/watch?v=T_kLAkmxUi4)
+[Video 21 English YouTube Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.youtube.com/watch?v=T_kLAkmxUi4)
 
-[Class 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
+[Video 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
 
-[Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
+[Video 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
 
-[Class 22 English Facebook Video : Learning GraphQL Part 2](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
+[Video 22 English Facebook Video : Learning GraphQL Part 2](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
 
-[Class 22 English YouTube Video : Learning GraphQL Part 2](https://www.youtube.com/watch?v=81d1-zldsoQ)
+[Video 22 English YouTube Video : Learning GraphQL Part 2](https://www.youtube.com/watch?v=81d1-zldsoQ)
 
-[Class 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
+[Video 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
 
-[Class 22 Urdu YouTube Video](https://www.youtube.com/watch?v=JdOj2yMdEkU)
+[Video 22 Urdu YouTube Video](https://www.youtube.com/watch?v=JdOj2yMdEkU)
 
 
-### Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
+### Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
 
 [Watch first 7 mins of video](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
 
@@ -998,13 +992,13 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-[Class 23 English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
+[Video 23 English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
 
-[Class 23 English YouTube Video : Building A project With React, TypeScript And GraphQL](https://www.youtube.com/watch?v=gavh9cTxGWI)
+[Video 23 English YouTube Video : Building A project With React, TypeScript And GraphQL](https://www.youtube.com/watch?v=gavh9cTxGWI)
 
-[Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
+[Video 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
 
-[Class 23 English Facebook Video](https://www.youtube.com/watch?v=oVn0oXOdS58)
+[Video 23 English Facebook Video](https://www.youtube.com/watch?v=oVn0oXOdS58)
 
 
 
@@ -1024,15 +1018,15 @@ Learn Redux Toolkit
 
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
-[Class 24 in English on Facebook : Learning Redux](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
+[Video 24 in English on Facebook : Learning Redux](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
 
-[Class 24 in English on YouTube : Learning Redux](https://www.youtube.com/watch?v=OO0lhveAZks)
+[Video 24 in English on YouTube : Learning Redux](https://www.youtube.com/watch?v=OO0lhveAZks)
 
 [Redux Presentation by Aamir](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
 
-[Class 24 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224301420908035/)
+[Video 24 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224301420908035/)
 
-[Class 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
+[Video 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
 
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
 
@@ -1040,25 +1034,25 @@ Learn Redux Toolkit
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
-[Class 25 in English on Facebook : Learning Redux ToolKit And Mirage Mocking Server](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
+[Video 25 in English on Facebook : Learning Redux ToolKit And Mirage Mocking Server](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
 
-[Class 25 in English on YouTube : Learning Redux ToolKit And Mirage Mocking Server](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
+[Video 25 in English on YouTube : Learning Redux ToolKit And Mirage Mocking Server](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
 
-[Class 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
+[Video 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
 
-[Class 25 in Urdu on YouTube](https://www.youtube.com/watch?v=ShKroZxL89k)
+[Video 25 in Urdu on YouTube](https://www.youtube.com/watch?v=ShKroZxL89k)
 
 [Thunk API for Async](https://redux-toolkit.js.org/api/createAsyncThunk)
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
 
-[Class 26 in English on Facebook : Learning Redux Async Thunk](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
+[Video 26 in English on Facebook : Learning Redux Async Thunk](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
 
-[Class 26 in English on YouTube : Learning Redux Async Thunk](https://www.youtube.com/watch?v=NxnELWEdh1s)
+[Video 26 in English on YouTube : Learning Redux Async Thunk](https://www.youtube.com/watch?v=NxnELWEdh1s)
 
-[Class 26 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224388032073260/)
+[Video 26 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224388032073260/)
 
-[Class 26 in Urdu on YouTube](https://www.youtube.com/watch?v=ifSriFrEvQA)
+[Video 26 in Urdu on YouTube](https://www.youtube.com/watch?v=ifSriFrEvQA)
 
 Mirage Notes:
 
@@ -1066,14 +1060,14 @@ Mirage Notes:
 2. Returning data from Mirage is as fast and easy as writing frontend code
 3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
 
-### Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript
+### Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript
 
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
 [Project Repo](https://github.com/jpreecedev/shopping-basket-tutorial)
 
 
-### Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
+### Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
 In this project we will be learning to use Redux by building an app that lets users create and manage diaries. We will be building our application using React, and we’ll set up Mirage as our API mocking server since we have not yet learned to build API's.
 
 [We will follow this Tutorial: Setting Up Redux For Use In A Real-World Application](https://www.smashingmagazine.com/2020/08/redux-real-world-application/)
@@ -1104,24 +1098,24 @@ This Project is very important because up to now we have been doing small projec
 
 [Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
 
-[Class 27 in English on Facebook: Learning React Formik And Yup Part 1](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
+[Video 27 in English on Facebook: Learning React Formik And Yup Part 1](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
 
-[Class 27 in English on YouTube : Learning React Formik And Yup Part 1](https://www.youtube.com/watch?v=v09HCJpOspE)
+[Video 27 in English on YouTube : Learning React Formik And Yup Part 1](https://www.youtube.com/watch?v=v09HCJpOspE)
 
-[Class 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
+[Video 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
 
-[Class 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
+[Video 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
 
-[Class 28 in English on Facebook : Learning React Formik And Yup Part 2](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
+[Video 28 in English on Facebook : Learning React Formik And Yup Part 2](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
 
-[Class 28 in Engish on YouTube : Learning React Formik And Yup Part 2](https://www.youtube.com/watch?v=wi7a9TqQt7E)
+[Video 28 in Engish on YouTube : Learning React Formik And Yup Part 2](https://www.youtube.com/watch?v=wi7a9TqQt7E)
 
-[Class 28 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224452812932741/)
+[Video 28 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224452812932741/)
 
-[Class 28 in Urdu on YouTube](https://www.youtube.com/watch?v=nDfCBV5Jq-I)
+[Video 28 in Urdu on YouTube](https://www.youtube.com/watch?v=nDfCBV5Jq-I)
 
 
-### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
+### Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
@@ -1154,13 +1148,13 @@ Storybook 6
 
 [Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
-[Class 29 in English on Facebook : Learning Component Driven Development Part 1 With Storybook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
+[Video 29 in English on Facebook : Learning Component Driven Development Part 1 With Storybook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
 
-[Class 29 in English on YouTube : Learning Component Driven Development Part 1 With Storybook](https://www.youtube.com/watch?v=ors4hsRJ8uM)
+[Video 29 in English on YouTube : Learning Component Driven Development Part 1 With Storybook](https://www.youtube.com/watch?v=ors4hsRJ8uM)
 
-[Class 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
+[Video 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
 
-[Class 29 in Urdu on YouTube](https://www.youtube.com/watch?v=aha6zRfEJMs)
+[Video 29 in Urdu on YouTube](https://www.youtube.com/watch?v=aha6zRfEJMs)
 
 
 Bit.dev
@@ -1179,17 +1173,17 @@ Design Systems for Developers
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
-[Class 30 in English on Facebook : Learning Component Driven Development Part 2 With Bit And Design System](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
+[Video 30 in English on Facebook : Learning Component Driven Development Part 2 With Bit And Design System](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
 
-[Class 30 in English on YouTube: Learning Component Driven Development Part 2 With Bit And Design System](https://www.youtube.com/watch?v=QcKLURv-npc)
+[Video 30 in English on YouTube: Learning Component Driven Development Part 2 With Bit And Design System](https://www.youtube.com/watch?v=QcKLURv-npc)
 
-[Class 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
+[Video 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
 
-[Class 30 in Urdu on YouTube](https://www.youtube.com/watch?v=f6XpLs9hnK0)
+[Video 30 in Urdu on YouTube](https://www.youtube.com/watch?v=f6XpLs9hnK0)
 
 
 
-### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
+### Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
@@ -1199,103 +1193,103 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
-[Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
+[Our JAMstack Textbook for Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
 
-[Class 31 in English on Facebook : Learning Modern Application Development With JAMStack Serverless](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+[Video 31 in English on Facebook : Learning Modern Application Development With JAMStack Serverless](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
-[Class 31 in English on YouTube : Learning Modern Application Development With JAMStack Serverless](https://www.youtube.com/watch?v=deNpUAzAEH0)
+[Video 31 in English on YouTube : Learning Modern Application Development With JAMStack Serverless](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
-[Class 31 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
+[Video 31 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
 
-[Class 31 in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
+[Video 31 in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
 
-[Class 32 in English on Facebook : Learning JAMStack Serverless - Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+[Video 32 in English on Facebook : Learning JAMStack Serverless - Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
 
-[Class 32 in English on YouTube : Learning JAMStack Serverless - Gatsby Part 1](https://www.youtube.com/watch?v=UP3-m4QigN4)
+[Video 32 in English on YouTube : Learning JAMStack Serverless - Gatsby Part 1](https://www.youtube.com/watch?v=UP3-m4QigN4)
 
-[Class 32 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
+[Video 32 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
 
-[Class 32 in Urdu on YouTube](https://www.youtube.com/watch?v=r-G-i5spHGg)
+[Video 32 in Urdu on YouTube](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
-[Class 33 in English on Facebook :Learning JAMStack Serverless - Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
+[Video 33 in English on Facebook :Learning JAMStack Serverless - Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
 
-[Class 33 in English on YouTube :Learning JAMStack Serverless - Gatsby Part 2](https://www.youtube.com/watch?v=21dnsmxRRYM)
+[Video 33 in English on YouTube :Learning JAMStack Serverless - Gatsby Part 2](https://www.youtube.com/watch?v=21dnsmxRRYM)
 
-[Class 33 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
+[Video 33 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
 
-[Class 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
+[Video 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
-[Class 34 in English on Facebook : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+[Video 34 in English on Facebook : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
 
-[Class 34 in English on YouTube : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+[Video 34 in English on YouTube : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.youtube.com/watch?v=5bjdsQ95Z44)
 
-[Class 34 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
+[Video 34 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
 
-[Class 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
+[Video 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
-[Class 35 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+[Video 35 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
 
-[Class 35 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+[Video 35 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.youtube.com/watch?v=8PxEZjYUKpc)
 
-[Class 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
+[Video 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
 
-[Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
+[Video 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
-[Class 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+[Video 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
 
-[Class 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
+[Video 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
 
-[Class 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
+[Video 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
 
-[Class 36 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
+[Video 36 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
 
-[Class 37 in English on Facebook : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
+[Video 37 in English on Facebook : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
 
-[Class 37 in English on YouTube : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=3B_vkzD0kRI)
+[Video 37 in English on YouTube : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=3B_vkzD0kRI)
 
-[Class 37 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224726664858868/)
+[Video 37 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224726664858868/)
 
-[Class 37 in Urdu on YouTube](https://www.youtube.com/watch?v=2mb2IFVL4Jw)
+[Video 37 in Urdu on YouTube](https://www.youtube.com/watch?v=2mb2IFVL4Jw)
 
-[Class 38 in English on Facebook : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
+[Video 38 in English on Facebook : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
 
-[Class 38 in English on YouTube : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
+[Video 38 in English on YouTube : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
 
-[Class 38 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
+[Video 38 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
 
-[Class 38 in Urdu on YouTube](https://www.youtube.com/watch?v=tEpOHCrR9Z8)
+[Video 38 in Urdu on YouTube](https://www.youtube.com/watch?v=tEpOHCrR9Z8)
 
-[Class 39 in English on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224773799597207/)
+[Video 39 in English on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224773799597207/)
 
-[Class 39 in English on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=jOmFJzafRb8)
+[Video 39 in English on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=jOmFJzafRb8)
 
-[Class 39 in Urdu on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224784025892858/)
+[Video 39 in Urdu on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224784025892858/)
 
-[Class 39 in Urdu on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=PUYydBwrgC0)
+[Video 39 in Urdu on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=PUYydBwrgC0)
 
 [Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
-[Class 40 in English on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224799074469063/)
+[Video 40 in English on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224799074469063/)
 
-[Class 40 in English on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=FPH7NYrdBgY)
+[Video 40 in English on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=FPH7NYrdBgY)
 
 [Project 12D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
 
-[Class 40 in Urdu on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224807488559410/)
+[Video 40 in Urdu on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224807488559410/)
 
-[Class 40 in Urdu on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=fAQG0bN5h6s)
+[Video 40 in Urdu on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=fAQG0bN5h6s)
 
-[Class 41 in English on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224830783101759/)
+[Video 41 in English on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224830783101759/)
 
-[Class 41 in English on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=zlhY7bRYR1A)
+[Video 41 in English on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=zlhY7bRYR1A)
 
 [Zeeshan's Virtual Lolly App Code Repo](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
 
-[Class 41 in Urdu on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224839747005851/)
+[Video 41 in Urdu on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224839747005851/)
 
-[Class 41 in Urdu on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
+[Video 41 in Urdu on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
 
-### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
+### Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
@@ -1320,25 +1314,25 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 Important Challenge Requirement:
 We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
 
-### Bootcamp 2020 Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB
+### Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB
 
 [Project Article](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
 
 [Updated Code Repo](https://github.com/netlify/netlify-faunadb-example)
 
-### Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
+### Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
 
 [Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
 
 [Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
-### Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
+### Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
 
 [Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
 
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript
 
-### Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
+### Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
 
 [Project Article](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
 
@@ -1352,98 +1346,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
 
-
-### Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
-
-[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
-
-### IMPORTANT NOTE
-
-### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
-
-
-## Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
-
-[JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
-
-[Class 42 in English on Facebook: Intro To Ecommerce](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
-
-[Class 42 in English on YouTube : Intro To Ecommerce](https://www.youtube.com/watch?v=u3KOcuxvb5w)
-
-[Class 42 in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
-
-[Class 42 in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
-
-[Class 43 Building Project 00 Video in English on Facebook: Payment Gateway Using Stripe Checkout With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
-
-[Class 43 Building Project 00 Video in English on YouTube : Payment Gateway Using Stripe Checkout With Gatsby](https://www.youtube.com/watch?v=cextuS_GgVI)
-
-[Class 43 Building Project 00 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224899533580478/)
-
-[Class 43 Building Project 00 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Jhg8URgZH-s)
-
-[Class 44 Building Project 01 Video in English on Facebook : Payment Gateway Using Stripe API With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
-
-[Class 44 Building Project 01 Video in English on YouTube : Payment Gateway Using Stripe API With Gatsby](https://www.youtube.com/watch?v=tamOJxju7fg)
-
-[Class 44 Building Project 01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224927228272828/)
-
-[Class 44 Building Project 01 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w)
-
-[Class 45 Buidling Project 02 Video in English on Facebook : Building Shopping Cart using Snapcart ](https://www.facebook.com/zeeshanhanif/videos/10224954863883701/)
-
-[Class 45 Buidling Project 02 Video in English on YouTube  : Building Shopping Cart using Snapcart ](https://www.youtube.com/watch?v=0APfFRm2hK8)
-
-[Class 45 Building Project 02 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224961217042526/)
-
-[Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
-
-[Class 46 Buiding Project 03 Video in English on Facebook : USE-SHOPPING-CART Open Source Shopping Cart](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
-
-[Class 46 Building Project 03 Video in English on YouTube : USE-SHOPPING-CART Open Source Shopping Cart](https://www.youtube.com/watch?v=tYGlZI4OPIs)
-
-[Class 46 Building Project 03 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224993742615645/)
-
-[Class 46 Building Project 03 Video in Urdu on YouTube](https://www.youtube.com/watch?v=gsfKhhB9_0M)
-
-[Class 47 Building Project 04 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
-
-[Class 47 Building Project 04 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.youtube.com/watch?v=Unz_REIRjpg)
-
-[Class 47 Building Project 04 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225025711294842/)
-
-[Class 47 Building Project 04 Video in Urdu on YouTube](https://www.youtube.com/watch?v=tNcpbyt0a6g)
-
-[Class 48 Building Project 04 Part 2 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
-
-[Class 48 Building Project 04 Part 2 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.youtube.com/watch?v=Qn16dqu7jKc)
-
-[Class 48 Building Project 04 Part 2 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225081196721943)
-
-[Class 48 Building Project 04 Part 2 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mz2ChgziBBk)
-
-[Class 49 Building Project 04 Part 3 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
-
-[Class 49 Building Project 04 Part 3 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.youtube.com/watch?v=xeAw__ofxtc)
-
-[Class 49 Building Project 04 Part 3 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225107438537972)
-
-[Class 49 Building Project 04 Part 3 Video in Urdu on YouTube](https://www.youtube.com/watch?v=-grjtMNprWI)
-
-[Class 50 Building Project 05 and 06 Video in English on Facebook : Payment Gateway Using 2Checkout and PayFast](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
-
-[Class 50 Building Project 05 and 06 Video in English on YouTube : Payment Gateway Using 2Checkout and PayFast](https://www.youtube.com/watch?v=dKHANO9U6IU)
-
-[Class 50 Building Project 05 and 06 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225139989951737)
-
-[Class 50 Building Project 05 and 06 Video in Urdu on YouTube](https://www.youtube.com/watch?v=5BK_R0MBL-c)
-
-
-[Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
-
-[Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
-
-## Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK
+## Module III: GraphQL and REST OpenAPI with AWS Cloud Development Kit 
 
 Get AWS Account
 
