@@ -213,7 +213,7 @@ Progress bar
 
 
 
-### Project 11: Infinite Scrolling App
+#### Project 11: Infinite Scrolling App
 
 Display posts from jsonplaceholder and add infinite scroll to fetch posts and also add filter box
 
@@ -260,7 +260,7 @@ Add new cards to local storage
 Clear all cards from local storage
 
 
-### Project 14. A text to speech app for non-verbal people. Pre-made buttons and custom text speech. 
+#### Project 14. A text to speech app for non-verbal people. Pre-made buttons and custom text speech. 
 
 A text to speech app. Pre-made buttons and custom text speech. This project uses the Web Speech API.
 
@@ -358,6 +358,18 @@ Students will create a comprehensive final project of their choosing demonstrati
 
 
 ## Module II: Front-End Fundamentals with React
+
+Objective: The objective of this module is to get a hands on understanding of React. By the end of the module we will have built 20 projects and build github reprositories for these projects and publish them on the web.
+
+### Learning Procedure:
+
+Watch Learning videos before class (links below)
+
+Guided project based practice in class (see prjects below)
+
+Independent Practice (at home)
+
+
 
 ## Class 1: Development Setup
 
