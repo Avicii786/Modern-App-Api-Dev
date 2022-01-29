@@ -7,7 +7,7 @@ Overview of the concepts by the Students:
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
 
-The program will mainly be focused on imparting knowledge by training students to develop projects. 
+The program consists of four modules and will mainly be focused on imparting knowledge by training students to develop projects:
 
 # Program Modules
 
@@ -16,6 +16,8 @@ The program will mainly be focused on imparting knowledge by training students t
 [Module II: Advanced JavaScript, React, Redux, TypeScript, PWA, and Storybook](#module-ii-advanced-javascript-react-redux-typescript-pwa-and-storybook)
 
 [Module III: API Economy and Cloud Development](#module-iii-api-economy-and-cloud-development)
+
+[Module IV: Android and iOS Mobile Apps using React Native with Expo and Amplify](#module-iv-android-and-ios-mobile-apps-using-react-native-with-expo-and-amplify)
 
 
 
