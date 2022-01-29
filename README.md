@@ -12,8 +12,11 @@ Overview of the concepts by the Students:
 The program will mainly be focused on imparting knowledge by training students to develop projects. 
 
 # Program Modules
+
 [Module I: HTML, CSS, JavaScript, and Git](#module-i-html-css-javascript-and-git)
+
 [Module II: Advanced JavaScript, React, Redux, TypeScript, PWA, and Storybook](#module-ii-advanced-javascript-react-redux-typescript-pwa-and-storybook)
+
 [Module III: API Economy and Cloud Development](#module-iii-api-economy-and-cloud-development)
 
 
