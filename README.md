@@ -1,4 +1,4 @@
-# Mobile Web and Serverless Cloud Computing Program Syllabus
+# Modern Mobile Web App and API Development
 
 This program of [Saylani Welfare Trust](https://www.saylaniwelfare.com/) will teach you to Build Modern Full-Stack Serverless Mobile Web Cloud SaaS Apps and APIs.
 
@@ -7,6 +7,9 @@ This program of [Saylani Welfare Trust](https://www.saylaniwelfare.com/) will te
 Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
+
+
+The program will mainly be focused on imparting knowledge by training students to develop projects. 
 
 
 
@@ -1346,15 +1349,470 @@ Note: In the above article the project is done using 11ty however you are requir
 
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
 
-## Module III: GraphQL and REST OpenAPI with AWS Cloud Development Kit 
+## Module III: API Economy and Cloud Development
 
 Get AWS Account
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
+[AWS Educate](https://aws.amazon.com/education/awseducate/)
+
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-Base Technology Stack:
+For AWS Educate Account you will need a email address issued by an educational institute or university.
+
+
+
+### Video 1: Understanding the API Economy
+
+[Report: 67% of developers embrace an API-first philosophy](https://venturebeat.com/2021/10/28/report-67-of-developers-embrace-an-api-first-philosophy/)
+
+The objective of this module is to prepare sofware developers for the API Economy (Application Programming Interface Economy). APIs are software interfaces that allow once separate software systems to seamlessly and easily talk to each other.  The innovative power of APIs has lead to the realization that software as a service (SaaS) applications can be built by combining APIs built by specialized API providers. That, in turn, has created the API Economy, which empowers developers to specialize and monetize their skills and domain knowledge.
+
+A taxi booking SaaS app, for example, might combine a mapping SaaS API, communication SaaS API, and billing SaaS API, each from different providers, with their own UX layered on top. This makes it easy to launch new services without having to build everything from scratch. This makes it easier for all participants to develop unique products, services and functionality quickly and with less cost. 
+
+In the API economy a developer may have different roles. It may be a SaaS developer or API provider. A API provider can also develop on top of other specialized APIs, thus creating layers of APIs. This creates an API economy where developers charge each other for the APIs built by them. The API provider charges others for using his APIs, and at the same time pays other providers to use their APIs. The SaaS app developers who uses all these APIs bills the end-customer for the service. This exchange of value is what makes an API economy.    
+
+Ideally, the developer who uses SaaS APIs wants to be charged a usage based subscription fee, not a fixed monthly subscription. This usage based subscription fee has been made possible by serverless cloud technologies. Serverless is also being called Cloud 2.0.
+
+The rise of of API Economy has created a new kind of software company i.e. an API-First Company. A company, which develops software not for the end-users as its main customer, but other developers who uses it as a component to build applications. The Panacloud platform provides the means by which developers and entrepreneurs can build their API-First Unicorn startups. 
+
+The API Economy levels the playing field for everyone from the smallest developers to the largest companies. However, it also creates many challenges. First, often there is no direct contact between the API provider and the developer who utilizes it, it can be hard to know which API to build with what functionality. Second, it is difficult to know which APIs are available and which API to use and their comparative strengths and weaknesses. Third, most of the current SaaS applications and API are built using legacy Cloud 1.0 technologies, thus they don’t have usage based billing support and also some have scalability issues. Fourth, the APIs are centrally managed and multi-tenant by their very nature, making it difficult to manage, measure resource usage in a serverless environment, and bill the tenant. Fifth, each and every API provider has to build a custom platform to monitor and measure serverless resource usage and bill clearing functionality thus increasing the time-to-market. Sixth, there is an extreme shortage of serverless cloud developers thus making life every difficult for both API providers and SaaS app companies. Seventh, there is a scarcity of coherent and comprehensive training material for multi-tenant severless SaaS app and API developers.
+
+Panacloud has started and is leading a social movement called Operation Unicorn to help anyone and everyone become a cloud developer, a startup founder, and participant in the API economy. The focus is on building API-First startups, which will in time become billion dollar companies. This movement is striving to build a community that will not only transform individuals, but societies and countries as well.
+
+[API Economy Presentation for Class](https://docs.google.com/presentation/d/1rjiNSoQV87mgZNCCA5xf__B-OOTTuK7CCriwpesDR90/edit?usp=sharing)
+
+Support Reading Material:
+
+[API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
+
+[What is the API Economy & why it matters to your business](https://www.torocloud.com/blog/what-is-the-API-economy-and-why-it-matters-to-your-business)
+
+[How the API economy is powering digital transformation](https://venturebeat.com/2021/05/17/how-the-api-economy-is-powering-digital-transformation/)
+
+[API Economy: Is It The Next Big Thing?](https://www.forbes.com/sites/tomtaulli/2020/01/18/api-economy--is-it-the-next-big-thing/)
+
+[What Is The “API Economy” And How Brands Can Benefit From It](https://medium.com/ipg-media-lab/what-is-the-api-economy-and-how-brands-can-benefit-from-it-b46210d0434d)
+
+[Welcome to the API Economy](https://www.gartner.com/smarterwithgartner/welcome-to-the-api-economy/)
+
+[The State of the API Economy 2021](https://pages.apigee.com/rs/351-WXY-166/images/Apigee_StateOfAPIS_eBook_2020.pdf)
+
+[Serverless Computing](https://www2.deloitte.com/content/dam/Deloitte/tr/Documents/technology-media-telecommunications/Serverless%20Computing.pdf)
+
+[Reshaping the business landscape with serverless APIs](https://azure.microsoft.com/en-us/blog/reshaping-the-business-landscape-with-serverless-apis/)
+
+[Serverless, Microservices & Other Trends in API and Services Architecture](https://www.moesif.com/blog/api-guide/the-next-api-platform-serverless-and-blockchain/)
+
+[API Strategy Essentials](https://www.mulesoft.com/lp/whitepaper/api/api-strategy-essentials)
+
+[5 Ways AI, IoT, and security are shaping the API economy](https://www.mulesoft.com/lp/ebook/api/artificial-intelligence-chatbot)
+
+[The platform economy is an API economy. And artificial intelligence needs APIs](https://blogs.sas.com/content/hiddeninsights/2017/05/23/api-economy-and-artifical-intelligence/)
+
+[The Pivotal Role of Business APIs in IoT Platforms: Part I](https://www.iotforall.com/business-api-iot-platforms)
+
+[How important is the API economy to blockchain application development?](https://www.hebergementwebs.com/blockchain/how-important-is-the-api-economy-to-blockchain-application-development)
+
+[APIs and Blockchain — a trillion-dollar opportunity](https://medium.com/monsterplay/apis-and-blockchain-a-trillion-dollar-opportunity-84ed839b313a)
+
+[Architectural Style for APIs – how to make the choice](https://api-university.com/blog/architectural-style-for-apis/)
+
+[Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
+
+Class 1 Videos: The API Economy
+
+[Video 1: What is the API Economy in English on YouTube](https://youtu.be/1ztdYFRyCyE)
+
+[Video 1: What is the API Economy in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
+
+[Video 1: What is the API Economy in Urdu on YouTube](https://youtu.be/V4z6KC3ENmM)
+
+[Video 1: What is the API Economy in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
+
+### Video 2: AWS CDK and Lambda Hello World
+
+We will be writing Infrastructure as Code (IaC) CDK AWS Serverless constructs in TypeScript and Lambda Functions etc. also in TypeScript
+
+[Working with CDK V2](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+
+[Getting Started with CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
+
+A new version of the CDK Toolkit is required for use with CDK v2. To install it, issue 
+
+npm install -g aws-cdk
+
+Learning Material:
+
+[Learning Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+
+We will focus on Serverless SaaS API development using CDK and AWS Lambda, AWS API Gateway (with [OpenAPI Specs](https://www.openapis.org/) and GraphQL, and AWS AppSync.Study Material:
+
+[Step 00: Hello CDK](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step00_hello_cdk)
+
+[Step 01: Hello Lambda](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
+
+Class 8 Videos: Hello CDK
+
+[Class 2: Hello CDK in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
+
+[Class 2: Hello CDK in English on YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc)
+
+[Class 2: Hello CDK in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/204372268374467)
+
+[Class 2: Hello CDK in Urdu on YouTube](https://www.youtube.com/watch?v=kiOcVAPwlzQ)
+
+
+### Video 3: AWS Lambda and CDN Website Deployment using CDK
+
+[Step 01](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda)
+
+[Step 02](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step02_hello_website)
+
+[Video 3: Lambda and CDN Website Deployment in English on Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
+
+[Video 3: Lambda and CDN Website Deployment in English on YouTube]()
+
+[Video 3: Lambda and CDN Website Deployment in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/159330759673241/)
+
+[Video 3: Lambda and CDN Website Deployment in Urdu on YouTube](https://youtu.be/KJ_MZ85ALiA)
+
+
+## Project 1: Define a Hitcounter API using CDK
+
+Build a Hitcounter API follow the [CDK Workshop](https://cdkworkshop.com/20-typescript/40-hit-counter/100-api.html)
+
+It is require that before you build your Hitcounter API you follow the workshop from the start.
+
+
+
+### Video 4, 5, 6, 7, 9 and 9 Videos: Integrate API Gateway and AppSync with Lambda and DynamoDB
+
+[Class 4: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/1196774377471411/)
+
+[Class 4: Integrate AppSync with Lambda as a Datasource in English on YouTube](https://youtu.be/m_lPimHUd4k)
+
+[Class 4: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/1009725069788588/)
+
+[Class 4: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube](https://youtu.be/1-wOShkvThQ)
+
+[Class 5: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/547896853204913/)
+
+[Class 5: Integrate AppSync with Lambda as a Datasource in English on YouTube](https://youtu.be/mggxxU1FB80)
+
+[Class 5: Integrate AppSync with Lambda as a Datasource in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/578799806798029/)
+
+[Class 5: Integrate AppSync with Lambda as a Datasource in Urdu on YouTube](https://youtu.be/BV6nynkPOTc)
+
+[Class 6: Integrate AppSync with Lambda with DynamoDB in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/624498375622116)
+
+[Class 6: Integrate AppSync with Lambda with DynamoDB in English on YouTube](https://youtu.be/m1ufBAiW4DU)
+
+[Class 6: Integrate AppSync with Lambda with DynamoDB in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2948723565388425)
+
+[Class 6: Integrate AppSync with Lambda with DynamoDB in Urdu on YouTube](https://youtu.be/6T7QhbskrC4)
+
+
+### Class 13 Videos: API Design, Prototyping, Development, and Testing - Everything Must and Will Become an API
+
+[API Design,Prototype, and Testing Learning Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+
+
+[Class 13: REST Request Collections in English on Facebook](https://www.facebook.com/524892375/videos/346470683935208/)
+
+[Class 13: REST Request Collections in English on YouTube](https://youtu.be/ZxzGnhiPwGI)
+
+[Class 13: REST Request Collections in Urdu on Facebook](https://www.facebook.com/100003743983275/videos/3077781142435405/)
+
+[Class 13: REST Request Collections in Urdu on YouTube](https://youtu.be/4Sy2Cl-BeaQ)
+
+
+
+## Project 4: Develop Simple Book API on AWS
+
+In this project we are going to define a Simple Book API on AWS using CDK, API Gateway, Lambda Function and DynamoDB. 
+After we have developed the APIs we will test them using Postman. 
+
+The requirements of this API are documented in this [repo](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
+
+The project code is pushed here, please donot copy the code it is for your reference to see after buiding the project:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
+
+### Class 14 Videos: Building Simple Books API with AWS API Gateway 
+
+[Class 14: Building Simple Books API with AWS API Gateway in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/1536119160098219)
+
+[Class 14: Building Simple Books API with AWS API Gateway in English on YouTube](https://youtu.be/7YgZC0tZJ8A)
+
+[Class 14: Building Simple Books API with AWS API Gateway in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/1802443406626216)
+
+[Class 14: Building Simple Books API with AWS API Gateway in Urdu on YouTube](https://youtu.be/enYadeUMP0E)
+
+Code for Class 14:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
+
+## Project 5: Develop Todo QraphQL API on AWS
+
+[Watch this video](https://www.youtube.com/watch?v=eyWE0md1doA) and develop a GraphQL Todo API on AWS using AppSync, Lambda Functions, and DynamoDB. Then test it using postman.
+
+The project code is pushed here, please donot copy the code it is for your reference to see after buiding the project:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
+
+
+### Class 15 Videos: Building GraphQL Todo APIs with AWS App Sync
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/415068096672403)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on YouTube](https://youtu.be/_j8_oiY4GRk)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/290727786218631)
+
+[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on YouTube](https://youtu.be/UnV_YDz_IIE)
+
+Code for Class 15:
+
+https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
+
+### Class 16 Videos: Use-Case Driven QraphQL API Design and Design Thinking
+
+[Reading Material: Steps 02 and 03 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/921873555107834)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on YouTube](https://youtu.be/VSNoK66Fqxw)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/989501124969236)
+
+[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on YouTube](https://youtu.be/ndCrHD3Nmjs)
+
+### Class 17 Videos: Introduction to Graph Databases
+
+[Reading Material: Steps 04 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+[Graph Databases for Dummies Book, chapter 1,2, and 4](https://neo4j.com/graph-databases-for-dummies/)
+
+[Cyper Queries](https://neo4j.com/developer/cypher/querying/)
+
+[Cyper Updates]( https://neo4j.com/developer/cypher/updating/)
+
+[We used Sandbox to do practice on Movie Database](https://neo4j.com/sandbox/)
+
+[You can use this Arrows.app to draw pictures of graphs](https://arrows.app/)
+
+[Class 17: Intro to Graph Databases in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/427718212030826)
+
+[Class 17: Intro to Graph Databases in English on YouTube](https://youtu.be/jw3oEdZGOXU)
+
+[Class 17: Intro to Graph Databases in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/419571513021530)
+
+[Class 17: Intro to Graph Databases in Urdu on YouTube](https://youtu.be/S4NcE7sdQpE)
+
+### Class 18 Videos: AWS Neptune Graph Database
+
+[Code Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step45a_neptune_cypher_gql)
+
+[Class 18: AWS Neptune Graph Database in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/887365838817159)
+
+[Class 18: AWS Neptune Graph Database in English on YouTube](https://youtu.be/tg0w9fA6jFw)
+
+[Class 18: AWS Neptune Graph Database in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411998473890746)
+
+[Class 18: AWS Neptune Graph Database in Urdu on YouTube](https://youtu.be/nKyphJAGRqg)
+
+## Project 6: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
+
+[Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
+
+[Tutorial: Building a GraphQL API on AWS with Amazon Neptune Graph Database, AppSync, TypeScript, and CDK](https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a)
+
+
+
+### Class 19 Videos: Relational Databases Design
+
+[Reading Material: Steps 06 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
+
+Reading Material:
+
+[Database Design in DBMS Tutorial: Learn Data Modeling](https://www.guru99.com/database-design.html)
+
+[What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF](https://www.guru99.com/database-normalization.html)
+
+[What is ER Modeling?](https://www.guru99.com/er-modeling.html)
+
+[Class 19: Relational Database Design in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/604312681009733)
+
+[Class 19: Relational Database Design in English on YouTube](https://youtu.be/377Iip-OVr0)
+
+[Class 19: Relational Database Design in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/3122170161394882)
+
+[Class 19: Relational Database Design in Urdu on YouTube](https://youtu.be/bYzVBSf0zMM)
+
+
+
+### Class 20 Videos: Learning SQL
+
+[Download PostgreSQL](https://www.postgresql.org/download/)
+
+[Download DBeaver](https://dbeaver.io/)
+
+Reading Material:
+
+[Chapters 1, 4-10 of the SQL QuickStart Guide](https://github.com/RaoAkif/Books/raw/main/SQL/Walter%20Shields%20-%20SQL%20QuickStart%20Guide_%20The%20Simplified%20Beginner's%20Guide%20to%20Managing%2C%20Analyzing%2C%20and%20Manipulating%20Data%20With%20SQL%20(2019%2C%20ClydeBank%20Media%20LLC).pdf)
+
+[W3C SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+
+[Class 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
+
+[Class 20: Learn SQL in English on YouTube](https://youtu.be/JmAnEElqU5Q)
+
+[Class 20: Learn SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/367171545094909)
+
+[Class 20: Learn SQL in Urdu on YouTube](https://youtu.be/hmqEucXv_lY)
+
+
+### Class 21 Videos: Serverless PostgreSQL Databases
+
+Reading Material:
+
+[CockroachDB Serverless Launches, Aspires to Be Developers’ Database](https://thenewstack.io/cockroachdb-serverless-launches-aspires-to-be-developers-database/)
+
+A new class of Serverless PostgreSQL Databases are emerging we plan to focus on them:
+
+1. [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/)
+2. [Azure Database for PostgreSQL - Hyperscale (Citus)](https://docs.microsoft.com/en-gb/azure/postgresql/hyperscale/)
+3. [CockroachDB Serverless](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
+
+CockroachDB Serverless runs on all three major cloud platforms, without requiring an account on any one of them and also has a free tier. This versatility is attractive to developers and for teaching students. Therefore, we will use it for teaching.
+
+[Introduction to Serverless Databases and CockroachDB Serverless](https://university.cockroachlabs.com/courses/intro-to-serverless/)
+
+[Using the DBeaver Client to Run SQL Commands](https://www.youtube.com/watch?v=xFv-TeIroV8)
+
+[How do I connect DBeaver to CockroachDB Serverless?](https://stackoverflow.com/questions/69757289/how-do-i-connect-dbeaver-to-cockroachdb-serverless)
+
+[Amazon Aurora Serverless using CDK](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step38_aurora_serverless)
+
+Additional Reading Material:
+
+[Build a Full-Stack Node.js App with CockroachDB Serverless](https://www.cockroachlabs.com/blog/full-stack-node-app/)
+
+[We will use Sequelize](https://sequelize.org/master/)
+
+[Sequelize tutorial](https://zetcode.com/javascript/sequelize/)
+
+[Using Sequelize with TypeScript](https://blog.logrocket.com/using-sequelize-with-typescript/)
+
+[Sequelize Typescript Documentation](https://sequelize.org/master/manual/typescript.html)
+
+[AWS Lambda](https://github.com/sequelize/sequelize/pull/12642)
+
+[Class 21: Serverless PostgreSQL Databases and SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/1516508168729989)
+
+[Class 21: Serverless PostgreSQL Databases and SQL in English on YouTube](https://youtu.be/scrucre7zPM)
+
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/988005178423196)
+
+[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube](https://youtu.be/XPfJI8xBq4g)
+
+
+
+### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
+
+[We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://drive.google.com/u/0/uc?id=1Kqa-_eub5WA34wEe590Nk72gHAGsbY-o&export=download)
+
+In this class we will cover chapter 1, 2, and 3.
+
+[Class 22: OpenAPI Part 1 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/622179202270835)
+
+[Class 22: OpenAPI Part 1 in English on YouTube](https://youtu.be/8onLJFq2p4g)
+
+[Class 22: OpenAPI Part 1 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/433136098201121)
+
+[Class 22: OpenAPI Part 1 in Urdu on YouTube](https://youtu.be/J353SRPRE3s)
+
+
+[Class 23: OpenAPI Part 2 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/323448162632593)
+
+[Class 23: OpenAPI Part 2 in English on YouTube](https://youtu.be/sTMD1mCZ27Q)
+
+[Class 23: OpenAPI Part 2 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/421218489666012)
+
+[Class 23: OpenAPI Part 2 in Urdu on YouTube](https://youtu.be/KZGSMnt5GxM)
+
+
+
+[Class 24: OpenAPI Part 3 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/927412921503124)
+
+[Class 24: OpenAPI Part 3 in English on YouTube](https://youtu.be/UieW2dBNfkM)
+
+[Class 24: OpenAPI Part 3 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411908177337780)
+
+[Class 24: OpenAPI Part 3 in Urdu on YouTube](https://www.youtube.com/watch?v=EuRkYhSupHQ)
+
+
+[Class 25: OpenAPI Part 4 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/434167448201651)
+
+[Class 25: OpenAPI Part 4 in English on YouTube](https://www.youtube.com/watch?v=KcLK01G50pw)
+
+[Class 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
+
+[Class 25: OpenAPI Part 4 in Urdu on YouTube](https://youtu.be/BmMbNxKPWzU)
+
+
+[Class 26: OpenAPI Part 5 in English on Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
+
+[Class 26: OpenAPI Part 5 in English on YouTube](https://www.youtube.com/watch?v=UXlbA3Bcc_c)
+
+[Class 26: OpenAPI Part 5 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/620261975953053)
+
+[Class 26: OpenAPI Part 5 in Urdu on YouTube](https://youtu.be/VbUCeJicFII)
+
+
+
+## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
+
+[Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
+
+Define and document the REST API using OpenAPI specifications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modern App and API Technology Stack:
 1.	Frontend: React with Typescipt and Storybook
 2.	Infrastructure As Code and Automation Tools: AWS CDK
 3.	Integration: AWS EventBridge
