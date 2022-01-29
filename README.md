@@ -2134,7 +2134,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
 
-## Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
+## Module IV: Android and iOS Mobile Apps using React Native with Expo and Amplify
 
 [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
