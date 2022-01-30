@@ -17,7 +17,7 @@ The program consists of four modules and will mainly be focused on imparting kno
 
 [Module III: API Economy and Cloud Development](#module-iii-api-economy-and-cloud-development)
 
-[Module IV: Android and iOS Mobile Apps using React Native with Expo and Amplify](#module-iv-android-and-ios-mobile-apps-using-react-native-with-expo-and-amplify)
+[Module IV: Android and iOS Mobile Apps, UI/UX Design, Design Patterns, and Innovation for Startups](#module-iv-android-and-ios-mobile-apps-uiux-design-design-patterns-and-innovation-for-startups)
 
 
 
