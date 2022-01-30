@@ -1792,9 +1792,9 @@ In this class we will cover chapter 1, 2, and 3.
 Define and document the REST API using OpenAPI specifications.
 
 
-## Module IV: Android and iOS Mobile Apps, UI/UX Design, Design Patterns, and Innovation
+## Module IV: Android and iOS Mobile Apps, UI/UX Design, Design Patterns, and Innovation for Startups
 
-### Part 1: Buiding Hybrid Android and iOS Apps
+### Part I: Buiding Hybrid Android and iOS Apps
 
 [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
@@ -1845,7 +1845,7 @@ Define and document the REST API using OpenAPI specifications.
 
 [Build a Realtime Chat App in React Native (tutorial for beginners)](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
 
-### Part 2 UI/UX Design for Developers using Figma
+### Part II UI/UX Design for Developers using Figma
 
 [Watching this Figma Crash Course to Begin Learning](https://www.youtube.com/watch?v=Gu1so3pz4bA)
 
@@ -1877,12 +1877,12 @@ Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 
-##  Part 3: Design Patterns in TypeScript
+##  Part III: Design Patterns in TypeScript
 
 [Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
 
 
-## Part 4: Combining Design Thinking, Lean Startup, and Agile to Build SaaS Startups
+## Part IV Innovation for Startups: Combining Design Thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
 
