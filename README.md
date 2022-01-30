@@ -13,7 +13,7 @@ The program consists of four modules and will mainly be focused on imparting kno
 
 [Module I: HTML, CSS, JavaScript, and Git](#module-i-html-css-javascript-and-git)
 
-[Module II: Advanced JavaScript, React, Redux, TypeScript, PWA, and Storybook](#module-ii-advanced-javascript-react-redux-typescript-pwa-and-storybook)
+[Module II: Advanced JavaScript, React, Redux, TypeScript, PWA, Gatsby, and Storybook](#module-ii-advanced-javascript-react-redux-typescript-pwa-and-storybook)
 
 [Module III: API Economy and Cloud Development](#module-iii-api-economy-and-cloud-development)
 
@@ -1357,6 +1357,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
 
+
 ## Module III: API Economy and Cloud Development
 
 Get AWS Account
@@ -1369,11 +1370,13 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 
 For AWS Educate Account you will need a email address issued by an educational institute or university.
 
+Before we get started please Review the concepts proposed by [MACH Alliance](https://machalliance.org/).
 
 
 ### Video 1: Understanding the API Economy
 
 [Report: 67% of developers embrace an API-first philosophy](https://venturebeat.com/2021/10/28/report-67-of-developers-embrace-an-api-first-philosophy/)
+
 
 The objective of this module is to prepare sofware developers for the API Economy (Application Programming Interface Economy). APIs are software interfaces that allow once separate software systems to seamlessly and easily talk to each other.  The innovative power of APIs has lead to the realization that software as a service (SaaS) applications can be built by combining APIs built by specialized API providers. That, in turn, has created the API Economy, which empowers developers to specialize and monetize their skills and domain knowledge.
 
@@ -1495,7 +1498,7 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 
 
-### Video 4, 5, 6, 7, 9 and 9 Videos: Integrate API Gateway and AppSync with Lambda and DynamoDB
+### Videos 4, 5, 6, 7, 9 and 9: Integrate API Gateway and AppSync with Lambda and DynamoDB
 
 [Class 4: Integrate AppSync with Lambda as a Datasource in English on Facebook](https://www.facebook.com/524892375/videos/1196774377471411/)
 
@@ -1538,7 +1541,7 @@ It is require that before you build your Hitcounter API you follow the workshop 
 
 
 
-## Project 4: Develop Simple Book API on AWS
+## Project 2: Develop Simple Book API on AWS
 
 In this project we are going to define a Simple Book API on AWS using CDK, API Gateway, Lambda Function and DynamoDB. 
 After we have developed the APIs we will test them using Postman. 
@@ -1549,21 +1552,21 @@ The project code is pushed here, please donot copy the code it is for your refer
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
 
-### Class 14 Videos: Building Simple Books API with AWS API Gateway 
+### Video 14: Building Simple Books API with AWS API Gateway 
 
-[Class 14: Building Simple Books API with AWS API Gateway in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/1536119160098219)
+[Video 14: Building Simple Books API with AWS API Gateway in English on Facebook](https://web.facebook.com/fb.anees.ahmed/videos/1536119160098219)
 
-[Class 14: Building Simple Books API with AWS API Gateway in English on YouTube](https://youtu.be/7YgZC0tZJ8A)
+[Video 14: Building Simple Books API with AWS API Gateway in English on YouTube](https://youtu.be/7YgZC0tZJ8A)
 
-[Class 14: Building Simple Books API with AWS API Gateway in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/1802443406626216)
+[Video 14: Building Simple Books API with AWS API Gateway in Urdu on Facebook](https://web.facebook.com/Ai.SirQasim/videos/1802443406626216)
 
-[Class 14: Building Simple Books API with AWS API Gateway in Urdu on YouTube](https://youtu.be/enYadeUMP0E)
+[Video 14: Building Simple Books API with AWS API Gateway in Urdu on YouTube](https://youtu.be/enYadeUMP0E)
 
-Code for Class 14:
+Code for Video 14:
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project-04(aws-restful-api)
 
-## Project 5: Develop Todo QraphQL API on AWS
+## Project 3: Develop Todo QraphQL API on AWS
 
 [Watch this video](https://www.youtube.com/watch?v=eyWE0md1doA) and develop a GraphQL Todo API on AWS using AppSync, Lambda Functions, and DynamoDB. Then test it using postman.
 
@@ -1572,37 +1575,37 @@ The project code is pushed here, please donot copy the code it is for your refer
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 
-### Class 15 Videos: Building GraphQL Todo APIs with AWS App Sync
+### Video 15: Building GraphQL Todo APIs with AWS App Sync
 
-[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/415068096672403)
+[Video 15: Building GraphQL Todo APIs with AWS App Sync in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/415068096672403)
 
-[Class 15: Building GraphQL Todo APIs with AWS App Sync in English on YouTube](https://youtu.be/_j8_oiY4GRk)
+[Video 15: Building GraphQL Todo APIs with AWS App Sync in English on YouTube](https://youtu.be/_j8_oiY4GRk)
 
-[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/290727786218631)
+[Video 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/290727786218631)
 
-[Class 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on YouTube](https://youtu.be/UnV_YDz_IIE)
+[Video 15: Building GraphQL Todo APIs with AWS App Sync in Urdu on YouTube](https://youtu.be/UnV_YDz_IIE)
 
-Code for Class 15:
+Code for Video 15:
 
 https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
-### Class 16 Videos: Use-Case Driven QraphQL API Design and Design Thinking
+### Video 16: Use-Case Driven QraphQL API Design and Design Thinking
 
 [Reading Material: Steps 02 and 03 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
-[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/921873555107834)
+[Video 16: Use-Case Driven QraphQL API Design and Design Thinking in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/921873555107834)
 
-[Class 16: se-Case Driven QraphQL API Design and Design Thinking in English on YouTube](https://youtu.be/VSNoK66Fqxw)
+[Video 16: Use-Case Driven QraphQL API Design and Design Thinking in English on YouTube](https://youtu.be/VSNoK66Fqxw)
 
-[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/989501124969236)
+[Video 16: Use-Case Driven QraphQL API Design and Design Thinking in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/989501124969236)
 
-[Class 16: se-Case Driven QraphQL API Design and Design Thinking in Urdu on YouTube](https://youtu.be/ndCrHD3Nmjs)
+[Video 16: Use-Case Driven QraphQL API Design and Design Thinking in Urdu on YouTube](https://youtu.be/ndCrHD3Nmjs)
 
-### Class 17 Videos: Introduction to Graph Databases
+### Video 17: Introduction to Graph Databases
 
 [Reading Material: Steps 04 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
-[Graph Databases for Dummies Book, chapter 1,2, and 4](https://neo4j.com/graph-databases-for-dummies/)
+[Graph Databases for Dummies Book, chapter 1, 2, and 4](https://neo4j.com/graph-databases-for-dummies/)
 
 [Cyper Queries](https://neo4j.com/developer/cypher/querying/)
 
@@ -1612,27 +1615,27 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 [You can use this Arrows.app to draw pictures of graphs](https://arrows.app/)
 
-[Class 17: Intro to Graph Databases in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/427718212030826)
+[Video 17: Intro to Graph Databases in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/427718212030826)
 
-[Class 17: Intro to Graph Databases in English on YouTube](https://youtu.be/jw3oEdZGOXU)
+[Video 17: Intro to Graph Databases in English on YouTube](https://youtu.be/jw3oEdZGOXU)
 
-[Class 17: Intro to Graph Databases in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/419571513021530)
+[Video 17: Intro to Graph Databases in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/419571513021530)
 
-[Class 17: Intro to Graph Databases in Urdu on YouTube](https://youtu.be/S4NcE7sdQpE)
+[Video 17: Intro to Graph Databases in Urdu on YouTube](https://youtu.be/S4NcE7sdQpE)
 
-### Class 18 Videos: AWS Neptune Graph Database
+### Video 18: AWS Neptune Graph Database
 
 [Code Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step45a_neptune_cypher_gql)
 
-[Class 18: AWS Neptune Graph Database in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/887365838817159)
+[Video 18: AWS Neptune Graph Database in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/887365838817159)
 
-[Class 18: AWS Neptune Graph Database in English on YouTube](https://youtu.be/tg0w9fA6jFw)
+[Video 18: AWS Neptune Graph Database in English on YouTube](https://youtu.be/tg0w9fA6jFw)
 
-[Class 18: AWS Neptune Graph Database in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411998473890746)
+[Video 18: AWS Neptune Graph Database in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411998473890746)
 
-[Class 18: AWS Neptune Graph Database in Urdu on YouTube](https://youtu.be/nKyphJAGRqg)
+[Video 18: AWS Neptune Graph Database in Urdu on YouTube](https://youtu.be/nKyphJAGRqg)
 
-## Project 6: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
+## Project 4: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
 
 [Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
 
@@ -1640,7 +1643,7 @@ https://github.com/panacloud/bootcamp-2021/tree/main/code/project05-aws-graphql
 
 
 
-### Class 19 Videos: Relational Databases Design
+### Video 19: Relational Databases Design
 
 [Reading Material: Steps 06 from this Repo](https://github.com/panacloud-modern-global-apps/api-design-prototype-testing)
 
@@ -1652,17 +1655,17 @@ Reading Material:
 
 [What is ER Modeling?](https://www.guru99.com/er-modeling.html)
 
-[Class 19: Relational Database Design in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/604312681009733)
+[Video 19: Relational Database Design in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/604312681009733)
 
-[Class 19: Relational Database Design in English on YouTube](https://youtu.be/377Iip-OVr0)
+[Video 19: Relational Database Design in English on YouTube](https://youtu.be/377Iip-OVr0)
 
-[Class 19: Relational Database Design in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/3122170161394882)
+[Video 19: Relational Database Design in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/3122170161394882)
 
-[Class 19: Relational Database Design in Urdu on YouTube](https://youtu.be/bYzVBSf0zMM)
+[Video 19: Relational Database Design in Urdu on YouTube](https://youtu.be/bYzVBSf0zMM)
 
 
 
-### Class 20 Videos: Learning SQL
+### Video 20: Learning SQL
 
 [Download PostgreSQL](https://www.postgresql.org/download/)
 
@@ -1674,16 +1677,16 @@ Reading Material:
 
 [W3C SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
-[Class 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
+[Video 20: Learn SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/641765553487507)
 
-[Class 20: Learn SQL in English on YouTube](https://youtu.be/JmAnEElqU5Q)
+[Video 20: Learn SQL in English on YouTube](https://youtu.be/JmAnEElqU5Q)
 
-[Class 20: Learn SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/367171545094909)
+[Video 20: Learn SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/367171545094909)
 
-[Class 20: Learn SQL in Urdu on YouTube](https://youtu.be/hmqEucXv_lY)
+[Video 20: Learn SQL in Urdu on YouTube](https://youtu.be/hmqEucXv_lY)
 
 
-### Class 21 Videos: Serverless PostgreSQL Databases
+### Video 21: Serverless PostgreSQL Databases
 
 Reading Material:
 
@@ -1719,424 +1722,79 @@ Additional Reading Material:
 
 [AWS Lambda](https://github.com/sequelize/sequelize/pull/12642)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/1516508168729989)
+[Video 21: Serverless PostgreSQL Databases and SQL in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/1516508168729989)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in English on YouTube](https://youtu.be/scrucre7zPM)
+[Video 21: Serverless PostgreSQL Databases and SQL in English on YouTube](https://youtu.be/scrucre7zPM)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/988005178423196)
+[Video 21: Serverless PostgreSQL Databases and SQL in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/988005178423196)
 
-[Class 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube](https://youtu.be/XPfJI8xBq4g)
+[Video 21: Serverless PostgreSQL Databases and SQL in Urdu on YouTube](https://youtu.be/XPfJI8xBq4g)
 
 
 
-### Class 22 Videos: Open API Testing and Development with Swagger and Postman 
+### Video 22-26: Open API Testing and Development with Swagger and Postman 
 
 [We will start by covering this book: Designing APIs with Swagger and OpenAPI](https://drive.google.com/u/0/uc?id=1Kqa-_eub5WA34wEe590Nk72gHAGsbY-o&export=download)
 
 In this class we will cover chapter 1, 2, and 3.
 
-[Class 22: OpenAPI Part 1 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/622179202270835)
+[Video 22: OpenAPI Part 1 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/622179202270835)
 
-[Class 22: OpenAPI Part 1 in English on YouTube](https://youtu.be/8onLJFq2p4g)
+[Video 22: OpenAPI Part 1 in English on YouTube](https://youtu.be/8onLJFq2p4g)
 
-[Class 22: OpenAPI Part 1 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/433136098201121)
+[Video 22: OpenAPI Part 1 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/433136098201121)
 
-[Class 22: OpenAPI Part 1 in Urdu on YouTube](https://youtu.be/J353SRPRE3s)
-
-
-[Class 23: OpenAPI Part 2 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/323448162632593)
-
-[Class 23: OpenAPI Part 2 in English on YouTube](https://youtu.be/sTMD1mCZ27Q)
-
-[Class 23: OpenAPI Part 2 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/421218489666012)
-
-[Class 23: OpenAPI Part 2 in Urdu on YouTube](https://youtu.be/KZGSMnt5GxM)
+[Video 22: OpenAPI Part 1 in Urdu on YouTube](https://youtu.be/J353SRPRE3s)
 
 
+[Video 23: OpenAPI Part 2 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/323448162632593)
 
-[Class 24: OpenAPI Part 3 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/927412921503124)
+[Video 23: OpenAPI Part 2 in English on YouTube](https://youtu.be/sTMD1mCZ27Q)
 
-[Class 24: OpenAPI Part 3 in English on YouTube](https://youtu.be/UieW2dBNfkM)
+[Video 23: OpenAPI Part 2 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/421218489666012)
 
-[Class 24: OpenAPI Part 3 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411908177337780)
-
-[Class 24: OpenAPI Part 3 in Urdu on YouTube](https://www.youtube.com/watch?v=EuRkYhSupHQ)
-
-
-[Class 25: OpenAPI Part 4 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/434167448201651)
-
-[Class 25: OpenAPI Part 4 in English on YouTube](https://www.youtube.com/watch?v=KcLK01G50pw)
-
-[Class 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
-
-[Class 25: OpenAPI Part 4 in Urdu on YouTube](https://youtu.be/BmMbNxKPWzU)
-
-
-[Class 26: OpenAPI Part 5 in English on Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
-
-[Class 26: OpenAPI Part 5 in English on YouTube](https://www.youtube.com/watch?v=UXlbA3Bcc_c)
-
-[Class 26: OpenAPI Part 5 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/620261975953053)
-
-[Class 26: OpenAPI Part 5 in Urdu on YouTube](https://youtu.be/VbUCeJicFII)
+[Video 23: OpenAPI Part 2 in Urdu on YouTube](https://youtu.be/KZGSMnt5GxM)
 
 
 
-## Project 7: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
+[Video 24: OpenAPI Part 3 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/927412921503124)
+
+[Video 24: OpenAPI Part 3 in English on YouTube](https://youtu.be/UieW2dBNfkM)
+
+[Video 24: OpenAPI Part 3 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/411908177337780)
+
+[Video 24: OpenAPI Part 3 in Urdu on YouTube](https://www.youtube.com/watch?v=EuRkYhSupHQ)
+
+
+[Video 25: OpenAPI Part 4 in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/434167448201651)
+
+[Video 25: OpenAPI Part 4 in English on YouTube](https://www.youtube.com/watch?v=KcLK01G50pw)
+
+[Video 25: OpenAPI Part 4 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/398335551825359)
+
+[Video 25: OpenAPI Part 4 in Urdu on YouTube](https://youtu.be/BmMbNxKPWzU)
+
+
+[Video 26: OpenAPI Part 5 in English on Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
+
+[Video 26: OpenAPI Part 5 in English on YouTube](https://www.youtube.com/watch?v=UXlbA3Bcc_c)
+
+[Video 26: OpenAPI Part 5 in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/620261975953053)
+
+[Video 26: OpenAPI Part 5 in Urdu on YouTube](https://youtu.be/VbUCeJicFII)
+
+
+
+## Project 5: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
 Define and document the REST API using OpenAPI specifications.
 
 
+## Module IV: Android and iOS Mobile Apps, UI/UX Design, Design Patterns, and Innovation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Modern App and API Technology Stack:
-1.	Frontend: React with Typescipt and Storybook
-2.	Infrastructure As Code and Automation Tools: AWS CDK
-3.	Integration: AWS EventBridge
-4.	Computing: AWS Lambda
-5.	Programing Language: TypeScript
-6.	Orchestration: AWS Step Functions
-7.	CDN: Amazon CloudFront 
-8.	Static Content: Amazon S3
-9.	API Front End: GraphQL using AWS AppSync
-10.	Database: AWS DynamoDB, AWS Arora Serverless, and AWS Neptune
-11.	Container Management: Fargate
-12.	Observability: AWS X-Ray
-13.	IDE: VS Code
-14.	CI/CD: Github Actions
-15.	Version Control: GitHub
-
-[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
-
-[Class 51 Video in English on Facebook : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
-
-[Class 51 Video in English on YouTube : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.youtube.com/watch?v=bnTCwunqhMc)
-
-[Class 51 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225164884934096)
-
-[Class 51 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JhFiu-krGZI)
-
-[Class 52 Video in English on Facebook : Project Setup And Stack Deployment With S3 Bucket](https://www.facebook.com/zeeshanhanif/videos/10225191381716499)
-
-[Class 52 Video in English on YouTube : Project Setup And Stack Deployment With S3 Bucket](https://www.youtube.com/watch?v=UpuVx8c0-lA)
-
-[Class 52 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225203759985948)
-
-[Class 52 Video in Urdu on YouTube](https://www.youtube.com/watch?v=xWF-LCTnSy4)
-
-[Class 53 Video in English on Facebook : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.facebook.com/zeeshanhanif/videos/10225216995316823)
-
-[Class 53 Video in English on YouTube : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.youtube.com/watch?v=JpLNn3_GbIc)
-
-[Class 53 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225226138185389)
-
-[Class 53 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IJBowlCR7fk)
-
-[Class 54 Video in English on Facebook : QraphQL API with AWS AppSync](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
-
-[Class 54 Video in English on YouTube : QraphQL API with AWS AppSync](https://www.youtube.com/watch?v=iJj32I9A_Nc)
-
-[Class 54 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225258717359848)
-
-[Class 54 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mzl8tQzygOA)
-
-[Class 55 Video in English on Facebook : AWS AppSync And AWS DynamoDB](https://www.facebook.com/zeeshanhanif/videos/10225276797051829)
-
-[Class 55 Video in English on YouTube : AWS AppSync And AWS DynamoDB](https://www.youtube.com/watch?v=lbkrSIM_x_Y)
-
-[Class 55 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225286889784141)
-
-[Class 55 Video in Urdu on YouTube](https://www.youtube.com/watch?v=FVHkJRo4TdI)
-
-[Class 56 Video in English on Facebook : AWS Amplify And AWS Appsync ](https://www.facebook.com/zeeshanhanif/videos/10225312535665272)
-
-[Class 56 Video in English on YouTube : AWS Amplify And AWS Appsync](https://www.youtube.com/watch?v=6hBaplgwE8s)
-
-[Class 56 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225319812407186)
-
-[Class 56 Video in Urdu on YouTube](https://www.youtube.com/watch?v=paHnI88zXSQ)
-
-[Class 57 Video in English on Facebook : AWS AppSync With DynamoDB As A Datasource](https://www.facebook.com/zeeshanhanif/videos/10225337767976064)
-
-[Class 57 Video in English on YouTube : AWS AppSync With DynamoDB As A Datasource](https://www.youtube.com/watch?v=DkMpDT-gsMk)
-
-[Class 57 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225347091729152)
-
-[Class 57 Video in Urdu on YouTube](https://www.youtube.com/watch?v=lpKaoZ4yAiE)
-
-[Class 58 Video in English on Facebook : AWS Cognito Part 1](https://www.facebook.com/zeeshanhanif/videos/10225372583806438)
-
-[Class 58 Video in English on YouTube : AWS Cognito Part 1](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
-
-[Class 58 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225381665553476)
-
-[Class 58 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BXIWIUkl2tM)
-
-[Class 59 Video in English on Facebook : AWS Cognito Part 2](https://www.facebook.com/zeeshanhanif/videos/10225399426157480)
-
-[Class 59 Video in English on YouTube : AWS Cognito Part 2](https://www.youtube.com/watch?v=2y0QrhvRMew)
-
-[Class 59 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225407400396831)
-
-[Class 59 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Qdk95pExTaY)
-
-[Class 60 Video in English on Facebook : AWS IAM Policies And Secret Manager Part 1](https://www.facebook.com/zeeshanhanif/videos/10225434631997604)
-
-[Class 60 Video in English on YouTube : AWS IAM Policies And Secret Manager Part 1](https://www.youtube.com/watch?v=geV-TV7kTgE)
-
-[Class 60 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225444019552287)
-
-[Class 60 Video in Urdu on YouTube](https://www.youtube.com/watch?v=AHam583oT7c)
-
-[Class 61 Video in English on Facebook : AWS Secret Manager Part 2](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
-
-[Class 61 Video in English on YouTube : AWS Secret Manager Part 2](https://www.youtube.com/watch?v=J7C5nHmUDD4)
-
-[Class 61 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225474211267061)
-
-[Class 61 Video in Urdu on YouTube](https://www.youtube.com/watch?v=9t_mhAn108Q)
-
-[Class 62 Video in English on Facebook : AWS CI/CD Pipeline](https://www.facebook.com/zeeshanhanif/videos/10225509036897680)
-
-[Class 62 Video in English on YouTube : AWS CI/CD Pipeline](https://www.youtube.com/watch?v=7IwnB6yT0lU)
-
-[Class 62 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225524262878320)
-
-[Class 62 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JTDRS1u3924)
-
-[Class 63 Video in English on Facebook : AWS EventBridge ](https://www.facebook.com/zeeshanhanif/videos/10225545010436996)
-
-[Class 63 Video in English on YouTube : AWS EventBridge ](https://www.youtube.com/watch?v=jrUDwrgBCqg)
-
-[Class 63 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225564742050274)
-
-[Class 63 Video in Urdu on YouTube](https://www.youtube.com/watch?v=1y4REyORf1U)
-
-[Class 64 Video in English on Facebook : AWS Simple Email Service](https://www.facebook.com/zeeshanhanif/videos/10225576641907763)
-
-[Class 64 Video in English on YouTube : AWS Simple Email Service](https://www.youtube.com/watch?v=CPFYfPbSTUo)
-
-[Class 64 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225585267523398)
-
-[Class 64 Video in Urdu on YouTube](https://www.youtube.com/watch?v=jnym0CaBgkk)
-
-[Class 65 Video in English on Facebook : AWS Simple Notification Service and Simple Queue Service](https://www.facebook.com/zeeshanhanif/videos/10225602951765493)
-
-[Class 65 Video in English on YouTube : AWS Simple Notification Service and Simple Queue Service](https://www.youtube.com/watch?v=pHTtY_o-WO0)
-
-[Class 65 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225612202036744)
-
-[Class 65 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BHDnDA1rzZY)
-
-[Class 66 Video in English on Facebook : AWS Pinpoint ](https://www.facebook.com/zeeshanhanif/videos/10225636344840299)
-
-[Class 66 Video in English on YouTube : AWS Pinpoint ](https://www.youtube.com/watch?v=C46KqvvImnA)
-
-[Class 66 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225650154145523)
-
-[Class 66 Video in Urdu on YouTube](https://www.youtube.com/watch?v=MHgNzf2OAPc)
-
-[Class 67 Video in English on Facebook : AWS Step Functions ](https://www.facebook.com/zeeshanhanif/videos/10225683635182528)
-
-[Class 67 Video in English on YouTube : AWS Step Functions ](https://www.youtube.com/watch?v=0gk3dYhwuJc)
-
-[Class 67 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225695152750460)
-
-[Class 67 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EQT1nJiSHNI)
-
-[Class 68 Video in English on Facebook : AWS Cloud Watch ](https://www.facebook.com/zeeshanhanif/videos/10225731558780588)
-
-[Class 68 Video in English on YouTube : AWS Cloud Watch ](https://www.youtube.com/watch?v=R5ChiA-o5QY)
-
-[Class 68 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225741135820008)
-
-[Class 68 Video in Urdu on YouTube](https://www.youtube.com/watch?v=c7hJn9KxqDE)
-
-[Class 69 Video in English on Facebook : AWS Timestream DB and Visualization with Grafana ](https://www.facebook.com/zeeshanhanif/videos/10225763251372883)
-
-[Class 69 Video in English on YouTube : AWS Timestream DB and Visualization with Grafana ](https://www.youtube.com/watch?v=6kwKtE8d9dc)
-
-[Class 69 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225811165650710)
-
-[Class 69 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EgYiEO8P704)
-
-[Class 70 Video in English on Facebook: AWS X-Ray](https://www.facebook.com/zeeshanhanif/videos/10225802789761318)
-
-[Class 70 Video in English on YouTube : AWS X-Ray](https://www.youtube.com/watch?v=kUdnlL5Krhk)
-
-[Class 70 Video in Urdu on YouTube](https://www.facebook.com/zeeshanhanif/videos/10225839661283083)
-
-[Class 70 Video in Urdu on YouTube](https://www.youtube.com/watch?v=i5QTUdZBNO0)
-
-[Class 71 Video in English on Facebook : AWS Lambda Layers](https://www.facebook.com/zeeshanhanif/videos/10225831683963655)
-
-[Class 71 Video in English on YouTube : AWS Lambda Layers](https://www.youtube.com/watch?v=HrvCZGKI9SE)
-
-[Class 71 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225874842762598)
-
-[Class 71 Video in Urdu on YouTube](https://www.youtube.com/watch?v=fa6HHSD5Qfo)
-
-[Class 72 Video in English on Facebook : AWS Lambda Edge and Lambda Destination](https://www.facebook.com/zeeshanhanif/videos/10225866783121112)
-
-[Class 72 Video in English on YouTube : AWS Lambda Edge and Lambda Destination](https://www.youtube.com/watch?v=onx7b32jRcM)
-
-[Class 72 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225904417381945)
-
-[Class 72 Video in Urdu on Facebook](https://www.youtube.com/watch?v=LfhS4kuJTaI)
-
-[Class 73 Video in English on Facebook : Docker Containers and AWS Lambda Container Image ](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
-
-[Class 73 Video in English on YouTube : Docker Containers and AWS Lambda Container Image ](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
-
-[Class 73 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225939772465800)
-
-[Class 73 Video in Urdu on YouTube](https://www.youtube.com/watch?v=W5GbzrWs6gw)
-
-[Class 74 Video in English on Facebook : AWS DynamoDB Streams and Constructs as Cloud components](https://www.facebook.com/zeeshanhanif/videos/10225932463123071)
-
-[Class 74 Video in English on YouTube : AWS DynamoDB Streams and Constructs as Cloud components](https://www.youtube.com/watch?v=LCY9ssPMWYY)
-
-[Class 74 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225965758835443)
-
-[Class 74 Video in Urdu on YouTube](https://www.youtube.com/watch?v=v9QkNInvTz0)
-
-[Class 75 Video in English on Facebook : CDK Multiple Stacks and AWS Route 53 ](https://www.facebook.com/zeeshanhanif/videos/10225959184311084)
-
-[Class 75 Video in English on YouTube : CDK Multiple Stacks and AWS Route 53 ](https://www.youtube.com/watch?v=9qvCPzMOOrk)
-
-[Class 75 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226003175610839)
-
-[Class 75 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IuGThHadaj0)
-
-[Class 76 Video in English on Facebook : AWS Elastic File Storage and Testing CDK ](https://www.facebook.com/zeeshanhanif/videos/10226021607111615)
-
-[Class 76 Video in English on YouTube : AWS Elastic File Storage and Testing CDK ](https://www.youtube.com/watch?v=jTOu3Fd0CHs)
-
-[Class 76 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226030936944855)
-
-[Class 76 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EcLqSHWo1Sw)
-
-[Class 77 Video in English on Facebook : Serverless Event-Driven Architecture ](https://www.facebook.com/zeeshanhanif/videos/10226050958845390)
-
-[Class 77 Video in English on YouTube : Serverless Event-Driven Architecture ](https://www.youtube.com/watch?v=wN9-XYyecPI)
-
-[Class 77 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226060184996038)
-
-[Class 77 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JCu31cqUrPM)
-
-[Class 78 Video in English on Facebook : CDK Design Patterns ](https://www.facebook.com/zeeshanhanif/videos/10226081386086052)
-
-[Class 78 Video in English on YouTube : CDK Design Patterns ](https://www.youtube.com/watch?v=MUDYeQ2HSLs)
-
-[Class 78 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226089243162474)
-
-[Class 78 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OgvmM1f-OjI)
-
-[Class 79 Video in English on Facebook : AWS Aurora Serverless and Data API ](https://www.facebook.com/zeeshanhanif/videos/10226116722369437)
-
-[Class 79 Video in English on YouTube : AWS Aurora Serverless and Data API ](https://www.youtube.com/watch?v=NC_az7syauM)
-
-[Class 79 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226125216901795)
-
-[Class 79 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OGS5Qr9TmsM)
-
-[Class 80 Video in English on Facebook : AWS VPC And AWS Neptune Graph Database ](https://www.facebook.com/zeeshanhanif/videos/10226147281253390)
-
-[Class 80 Video in English on YouTube : AWS VPC And AWS Neptune Graph Database](https://www.youtube.com/watch?v=-1Prdv-hhG4)
-
-[Class 80 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226153456967779)
-
-[Class 80 Video in Urdu on YouTube](https://www.youtube.com/watch?v=nySxSG9nqfU)
-
-[Class 81 Video in English on Facebook: Gremlin Graph Traversal Language ](https://www.facebook.com/zeeshanhanif/videos/10226182818781806)
-
-[Class 81 Video in English on YouTube: Gremlin Graph Traversal Language ](https://www.youtube.com/watch?v=GzDkFWM7KAs)
-
-[Class 81 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226190729259563)
-
-[Class 81 Video in Urdu on YouTube](https://www.youtube.com/watch?v=rPx5SpBa0Ec)
-
-
-## Important Note:
-
-Project 13 onwards, create only private repos for your project code. We want all the developers to be able to gain confidence that they can develop code without looking at anyone elses code. 
-
-
-### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
-
-The functionality of project is exactly the same as in Project 12C except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code) 
-
-### Bootcamp 2020 Project 13B: Create A Bookmarking Application With AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
-
-The functionality of project is exactly the same as in Project 12D except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code)
-
-### Bootcamp 2020 Project 13C: Virtual Lolly using AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, DynamoDB, Formik, and Storybook 6
-
-The functionality of project is exactly the same as in Project 12E except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code)
-
-
-### Bootcamp 2020 Project 14: Building Serverless Apps with Event-Driven Architecture using AWS Eventbridge
-
-[Learning Event Driven Architecture Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk#event-driven-architecture)
-
-[Event Driven Restaurant Example App](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step34_event-driven-restaurant-app)
-
-
-
-Project 14 A, B, and C
-Now implement 13 A, B, and C using Event-Driven Architecture with AWS Eventbridge and CDK
-
-Project 14 D: Build a Resilient, Asynchronous Pet Theory System 
-
-https://www.qwiklabs.com/focuses/8389?parent=catalog
-
-The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
-
-
-### Bootcamp 2020 Project 15A: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
-
-[Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
-
-[Tutorial: Building a GraphQL API on AWS with Amazon Neptune Graph Database, AppSync, TypeScript, and CDK](https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a)
-
-
-### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
-
-[Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
-
-
-## Module IV: Android and iOS Mobile Apps using React Native with Expo and Amplify
+### Part 1: Buiding Hybrid Android and iOS Apps
 
 [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
@@ -2154,43 +1812,40 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Full Stack Mobile Apps with Amplify and Expo](https://docs.amplify.aws/start/q/integration/react-native)
 
-[Class 82 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 1](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
+[Video 1 in English on Facebook: Crash Course in Hybrid Mobile Development Class 1](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
 
-[Class 82 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 1](https://www.youtube.com/watch?v=vjce0lyQxaI)
+[Video 1 in English on YouTube: Crash Course in Hybrid Mobile Development Class 1](https://www.youtube.com/watch?v=vjce0lyQxaI)
 
-[Class 82 Video in Urdu on Facebook](https://web.facebook.com/zeeshanhanif/videos/10226221136659729)
+[Video 1 in Urdu on Facebook](https://web.facebook.com/zeeshanhanif/videos/10226221136659729)
 
-[Class 82 Video in Urdu on YouTube](https://www.youtube.com/watch?v=DbUJV0k7kVM)
+[Video 1 in Urdu on YouTube](https://www.youtube.com/watch?v=DbUJV0k7kVM)
 
-[Class 83 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 2](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
+[Video 2 in English on Facebook: Crash Course in Hybrid Mobile Development Class 2](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
 
-[Class 83 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 2](https://www.youtube.com/watch?v=JoRAYsEbi9I)
+[Video 2 in English on YouTube: Crash Course in Hybrid Mobile Development Class 2](https://www.youtube.com/watch?v=JoRAYsEbi9I)
 
-[Class 83 Code on Github](https://github.com/zeeshanhanif/reactnative-todolist)
+[Video 2 Code on Github](https://github.com/zeeshanhanif/reactnative-todolist)
 
-[Class 83 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226254799261273)
+[Video 2 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226254799261273)
 
-[Class 83 Video in Urdu on YouTube](https://www.youtube.com/watch?v=r0MHDJ6AXfc)
+[Video 2 in Urdu on YouTube](https://www.youtube.com/watch?v=r0MHDJ6AXfc)
 
-[Class 84 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 3](https://www.facebook.com/zeeshanhanif/videos/10226271623321864)
+[Video 3 in English on Facebook: Crash Course in Hybrid Mobile Development Class 3](https://www.facebook.com/zeeshanhanif/videos/10226271623321864)
 
-[Class 84 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 3](https://www.youtube.com/watch?v=TX-pHbwQ92A)
+[Video 3 in English on YouTube: Crash Course in Hybrid Mobile Development Class 3](https://www.youtube.com/watch?v=TX-pHbwQ92A)
 
-[Class 84 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226279800766295)
+[Video 3 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226279800766295)
 
-[Class 84 Video in Urdu on YouTube](https://www.youtube.com/watch?v=aZT-DLK_SEc)
+[Video 3 in Urdu on YouTube](https://www.youtube.com/watch?v=aZT-DLK_SEc)
 
 
-### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
+### Project 1: Build Serverless Slack App with Expo and AWS Amplify
 
 [Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
 
 [Build a Realtime Chat App in React Native (tutorial for beginners)](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
 
-
-## Appendices
-
-## Appendix A: Figma for Developers
+### Part 2 UI/UX Design for Developers using Figma
 
 [Watching this Figma Crash Course to Begin Learning](https://www.youtube.com/watch?v=Gu1so3pz4bA)
 
@@ -2205,7 +1860,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 [Figma Resources](https://www.figmaresources.com/)
 
 
-### Figma Project A: Building a Recipe App using Figma
+### Project 2: Building a Recipe App using Figma
 
 [Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
 
@@ -2213,7 +1868,7 @@ Build a Wireframe for Recipe App using the above design
 
 Build a Mockup for the Recipe App using the above design
 
-### Figma Project B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
+### Project 3: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
 
 [Talky Chat & Video Messenger App](https://www.figmaresources.com/resources/chat-app)
 
@@ -2221,12 +1876,13 @@ Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 
 Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
-##  Appendix B: Design Patterns in TypeScript
+
+##  Part 3: Design Patterns in TypeScript
 
 [Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
 
 
-## Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
+## Part 4: Combining Design Thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
 
