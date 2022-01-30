@@ -1,4 +1,4 @@
-# Modern Full-Stack Cloud Application and API Development
+# Modern Application and API Development
 
 This program of [Saylani Welfare Trust](https://www.saylaniwelfare.com/) will teach you to build Modern Full-Stack Serverless Mobile Web Cloud SaaS Apps and APIs. This program is supports React based front-ends and microservices based, API-first, cloud SaaS and headless backend technologies. Most of material frontend material covered in the program are advocated by [JAMstack](https://jamstack.org/) and backend technologies by [MACH Alliance](https://machalliance.org/).
 
