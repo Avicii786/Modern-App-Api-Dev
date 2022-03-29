@@ -1370,6 +1370,8 @@ Note: For AWS Free Tier you will need a credit or debit card. The easiest way fo
 
 For AWS Educate Account you will need a email address issued by an educational institute or university.
 
+Now you can create virtual VISA Debit card through [NayaPay App](https://www.nayapay.com/) which can be used to create AWS/GCP/Azure account. This is good NEWS For those students who find it difficult to create physical VISA/Master Card from Banks; this is a great option to avail.
+
 Before we get started please Review the concepts proposed by [MACH Alliance](https://machalliance.org/).
 
 
